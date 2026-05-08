@@ -1,0 +1,705 @@
+{
+  "usuarios": {
+    "8672397104": {
+      "modo": "Estudo facil",
+      "fila": [
+        {
+          "nivel": "facil",
+          "materia": "Atualidades Ceará",
+          "pergunta": "Nível fácil — Atualidades Ceará.\nAtualidades em concursos devem ser estudadas com:\n\nSituação de treino nº 135: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Fontes confiáveis e acontecimentos recentes.",
+            "B) Apenas boatos.",
+            "C) Memes sem contexto.",
+            "D) Informações antigas sem verificação."
+          ],
+          "correta": "A",
+          "explicacao": "Atualidades exigem atenção a fontes confiáveis e ao contexto dos acontecimentos.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "História do Ceará",
+          "pergunta": "Nível fácil — História do Ceará.\nAs secas no Ceará influenciaram historicamente:\n\nSituação de treino nº 101: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Migrações, políticas públicas e organização social.",
+            "B) Apenas festas religiosas.",
+            "C) O fim da agricultura mundial.",
+            "D) A inexistência de cidades."
+          ],
+          "correta": "A",
+          "explicacao": "As secas marcaram a história social, econômica e política do Ceará.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Execução Penal",
+          "pergunta": "Nível fácil — Execução Penal.\nA execução penal busca:\n\nSituação de treino nº 64: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Efetivar a sentença e proporcionar condições para integração social.",
+            "B) Eliminar todos os direitos do preso.",
+            "C) Criar processo eleitoral.",
+            "D) Substituir a Constituição."
+          ],
+          "correta": "A",
+          "explicacao": "A LEP busca efetivar a sentença e possibilitar integração social do condenado.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "História do Ceará",
+          "pergunta": "Nível fácil — História do Ceará.\nFortaleza ganhou importância histórica por sua função:\n\nSituação de treino nº 93: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Administrativa, comercial e litorânea.",
+            "B) Exclusivamente mineradora.",
+            "C) Apenas rural.",
+            "D) Sem relação com o litoral."
+          ],
+          "correta": "A",
+          "explicacao": "Fortaleza consolidou-se como centro político, administrativo e comercial.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Atualidades Fortaleza",
+          "pergunta": "Nível fácil — Atualidades Fortaleza.\nFortaleza, como capital do Ceará, concentra debates sobre:\n\nSituação de treino nº 46: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Mobilidade urbana, segurança, turismo e desigualdade social.",
+            "B) Neve anual obrigatória.",
+            "C) Mineração de diamantes como atividade única.",
+            "D) Ausência de serviços públicos."
+          ],
+          "correta": "A",
+          "explicacao": "Capitais costumam concentrar temas urbanos como transporte, segurança, habitação e turismo.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Segurança Pública CE",
+          "pergunta": "Nível fácil — Segurança Pública CE.\nUm desafio de segurança pública urbana é:\n\nSituação de treino nº 45: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Prevenir violência e proteger a população com respeito aos direitos.",
+            "B) Eliminar garantias fundamentais.",
+            "C) Encerrar serviços públicos.",
+            "D) Ignorar dados criminais."
+          ],
+          "correta": "A",
+          "explicacao": "Políticas de segurança devem proteger a sociedade e respeitar direitos fundamentais.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Segurança Pública CE",
+          "pergunta": "Nível fácil — Segurança Pública CE.\nA segurança pública no Ceará envolve integração entre:\n\nSituação de treino nº 73: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Polícias, inteligência, prevenção e sistema prisional.",
+            "B) Apenas empresas de turismo.",
+            "C) Somente escolas particulares.",
+            "D) Cartórios privados sem Estado."
+          ],
+          "correta": "A",
+          "explicacao": "Segurança pública exige atuação integrada de órgãos e políticas públicas.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Geografia do Ceará",
+          "pergunta": "Nível fácil — Geografia do Ceará.\nA gestão de recursos hídricos no Ceará é relevante porque:\n\nSituação de treino nº 96: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Há irregularidade de chuvas e períodos de estiagem.",
+            "B) Não existem rios ou açudes.",
+            "C) Chove igualmente o ano inteiro.",
+            "D) O estado é polar."
+          ],
+          "correta": "A",
+          "explicacao": "A irregularidade das chuvas torna essencial a gestão de açudes, adutoras e abastecimento.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Atualidades Fortaleza",
+          "pergunta": "Nível fácil — Atualidades Fortaleza.\nEm provas municipais ou estaduais, Fortaleza pode aparecer em temas de:\n\nSituação de treino nº 86: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Urbanização, economia, cultura e administração pública.",
+            "B) Guerra medieval europeia.",
+            "C) Clima polar.",
+            "D) Colonização japonesa exclusiva."
+          ],
+          "correta": "A",
+          "explicacao": "Questões locais podem abordar características urbanas, culturais e administrativas da capital.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Atualidades Ceará",
+          "pergunta": "Nível fácil — Atualidades Ceará.\nTema recorrente em atualidades cearenses é:\n\nSituação de treino nº 95: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Desenvolvimento econômico, segurança, educação e infraestrutura.",
+            "B) Neve permanente.",
+            "C) Fronteira internacional terrestre com o Chile.",
+            "D) Vulcões ativos urbanos."
+          ],
+          "correta": "A",
+          "explicacao": "Questões locais podem abordar políticas públicas e desafios sociais do estado.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Geografia do Ceará",
+          "pergunta": "Nível fácil — Geografia do Ceará.\nO clima predominante em grande parte do Ceará é:\n\nSituação de treino nº 112: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Semiárido.",
+            "B) Polar.",
+            "C) Equatorial de altitude nevada.",
+            "D) Temperado oceânico frio."
+          ],
+          "correta": "A",
+          "explicacao": "Grande parte do Ceará possui clima semiárido, com irregularidade de chuvas.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Polícia Civil CE",
+          "pergunta": "Nível fácil — Polícia Civil CE.\nA Polícia Civil tem função típica de:\n\nSituação de treino nº 88: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Polícia judiciária e investigação criminal.",
+            "B) Julgamento final de processos.",
+            "C) Execução da pena em presídio.",
+            "D) Defesa judicial privada."
+          ],
+          "correta": "A",
+          "explicacao": "A Polícia Civil exerce polícia judiciária e apuração de infrações penais, salvo exceções constitucionais.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Polícia Penal CE",
+          "pergunta": "Nível fácil — Polícia Penal CE.\nA atividade policial penal está ligada diretamente à:\n\nSituação de treino nº 43: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Segurança dos estabelecimentos penais.",
+            "B) Fiscalização de obras privadas.",
+            "C) Emissão de passaporte.",
+            "D) Registro de nascimento."
+          ],
+          "correta": "A",
+          "explicacao": "A Polícia Penal atua no âmbito da segurança do sistema prisional.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Direito Penal",
+          "pergunta": "Nível fácil — Direito Penal.\nTipicidade significa:\n\nSituação de treino nº 49: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Enquadramento da conduta ao tipo penal.",
+            "B) Simpatia do agente.",
+            "C) Opinião da vítima.",
+            "D) Valor da multa administrativa."
+          ],
+          "correta": "A",
+          "explicacao": "Tipicidade é a correspondência entre fato praticado e descrição legal do crime.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Execução Penal",
+          "pergunta": "A Lei de Execução Penal trata principalmente:",
+          "alternativas": [
+            "A) Da organização das eleições.",
+            "B) Do cumprimento das penas e medidas de segurança.",
+            "C) De contratos civis.",
+            "D) De licitações municipais."
+          ],
+          "correta": "B",
+          "explicacao": "A LEP disciplina a execução das penas e medidas de segurança."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Atualidades Ceará",
+          "pergunta": "Nível fácil — Atualidades Ceará.\nTema recorrente em atualidades cearenses é:\n\nSituação de treino nº 83: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Desenvolvimento econômico, segurança, educação e infraestrutura.",
+            "B) Neve permanente.",
+            "C) Fronteira internacional terrestre com o Chile.",
+            "D) Vulcões ativos urbanos."
+          ],
+          "correta": "A",
+          "explicacao": "Questões locais podem abordar políticas públicas e desafios sociais do estado.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Geografia do Ceará",
+          "pergunta": "Nível fácil — Geografia do Ceará.\nA gestão de recursos hídricos no Ceará é relevante porque:\n\nSituação de treino nº 120: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Há irregularidade de chuvas e períodos de estiagem.",
+            "B) Não existem rios ou açudes.",
+            "C) Chove igualmente o ano inteiro.",
+            "D) O estado é polar."
+          ],
+          "correta": "A",
+          "explicacao": "A irregularidade das chuvas torna essencial a gestão de açudes, adutoras e abastecimento.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Direito Constitucional",
+          "pergunta": "Nível fácil — Direito Constitucional.\nO habeas corpus protege principalmente:\n\nSituação de treino nº 91: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Direito líquido e certo tributário.",
+            "B) Liberdade de locomoção.",
+            "C) Direito autoral.",
+            "D) Registro de marca."
+          ],
+          "correta": "B",
+          "explicacao": "Habeas corpus protege a liberdade de locomoção contra ilegalidade ou abuso de poder.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Legislação Especial",
+          "pergunta": "Nível fácil — Legislação Especial.\nLei penal especial é aquela que:\n\nSituação de treino nº 19: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Trata de temas penais específicos fora ou ao lado do Código Penal.",
+            "B) Revoga toda a Constituição.",
+            "C) Só vale para empresas.",
+            "D) Não pode ser aplicada em concursos."
+          ],
+          "correta": "A",
+          "explicacao": "Leis penais especiais tratam de matérias específicas, como drogas, armas, tortura, crimes hediondos etc.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Direito Constitucional",
+          "pergunta": "Nível fácil — Direito Constitucional.\nSão direitos fundamentais:\n\nSituação de treino nº 36: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Apenas direitos patrimoniais.",
+            "B) Direitos e garantias individuais e coletivos.",
+            "C) Apenas favores administrativos.",
+            "D) Somente normas internas de empresas."
+          ],
+          "correta": "B",
+          "explicacao": "A Constituição protege direitos e garantias fundamentais.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Execução Penal",
+          "pergunta": "Nível fácil — Execução Penal.\nA disciplina prisional deve respeitar:\n\nSituação de treino nº 53: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Legalidade e dignidade.",
+            "B) Apenas vontade do plantonista.",
+            "C) Castigos não previstos.",
+            "D) Decisão de redes sociais."
+          ],
+          "correta": "A",
+          "explicacao": "A disciplina deve observar a lei, proporcionalidade e dignidade.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Direito Constitucional",
+          "pergunta": "Nível fácil — Direito Constitucional.\nA segurança pública, na Constituição, é:\n\nSituação de treino nº 47: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Dever do Estado, direito e responsabilidade de todos.",
+            "B) Atividade privada sem controle.",
+            "C) Competência exclusiva de empresas.",
+            "D) Tema sem previsão constitucional."
+          ],
+          "correta": "A",
+          "explicacao": "A Constituição trata a segurança pública como dever do Estado e responsabilidade de todos.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Legislação Especial",
+          "pergunta": "Nível fácil — Legislação Especial.\nA Lei de Drogas diferencia, em linhas gerais:\n\nSituação de treino nº 41: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Condutas de usuário e tráfico.",
+            "B) Apenas infrações de trânsito.",
+            "C) Crimes eleitorais.",
+            "D) Licitações."
+          ],
+          "correta": "A",
+          "explicacao": "A Lei de Drogas possui tipos e tratamentos distintos conforme a conduta.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "História do Ceará",
+          "pergunta": "Nível fácil — História do Ceará.\nAs secas no Ceará influenciaram historicamente:\n\nSituação de treino nº 29: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Migrações, políticas públicas e organização social.",
+            "B) Apenas festas religiosas.",
+            "C) O fim da agricultura mundial.",
+            "D) A inexistência de cidades."
+          ],
+          "correta": "A",
+          "explicacao": "As secas marcaram a história social, econômica e política do Ceará.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Segurança Pública CE",
+          "pergunta": "Nível fácil — Segurança Pública CE.\nUm desafio de segurança pública urbana é:\n\nSituação de treino nº 93: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Prevenir violência e proteger a população com respeito aos direitos.",
+            "B) Eliminar garantias fundamentais.",
+            "C) Encerrar serviços públicos.",
+            "D) Ignorar dados criminais."
+          ],
+          "correta": "A",
+          "explicacao": "Políticas de segurança devem proteger a sociedade e respeitar direitos fundamentais.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Segurança Pública CE",
+          "pergunta": "Nível fácil — Segurança Pública CE.\nUm desafio de segurança pública urbana é:\n\nSituação de treino nº 21: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Prevenir violência e proteger a população com respeito aos direitos.",
+            "B) Eliminar garantias fundamentais.",
+            "C) Encerrar serviços públicos.",
+            "D) Ignorar dados criminais."
+          ],
+          "correta": "A",
+          "explicacao": "Políticas de segurança devem proteger a sociedade e respeitar direitos fundamentais.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Administração Pública CE",
+          "pergunta": "Nível fácil — Administração Pública CE.\nA administração pública estadual deve observar:\n\nSituação de treino nº 52: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Legalidade, impessoalidade, moralidade, publicidade e eficiência.",
+            "B) Interesse privado acima de tudo.",
+            "C) Segredo absoluto de todos os atos.",
+            "D) Ausência de controle."
+          ],
+          "correta": "A",
+          "explicacao": "São princípios constitucionais da Administração Pública.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Português",
+          "pergunta": "Nível fácil — Português.\nA crase ocorre, em regra, pela fusão de:\n\nSituação de treino nº 56: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Artigo masculino e verbo.",
+            "B) Preposição 'a' com artigo feminino 'a'.",
+            "C) Advérbio com substantivo.",
+            "D) Pronome com numeral."
+          ],
+          "correta": "B",
+          "explicacao": "A crase é a fusão da preposição 'a' com o artigo feminino 'a' ou com pronomes compatíveis.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Atualidades Ceará",
+          "pergunta": "Nível fácil — Atualidades Ceará.\nTema recorrente em atualidades cearenses é:\n\nSituação de treino nº 71: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Desenvolvimento econômico, segurança, educação e infraestrutura.",
+            "B) Neve permanente.",
+            "C) Fronteira internacional terrestre com o Chile.",
+            "D) Vulcões ativos urbanos."
+          ],
+          "correta": "A",
+          "explicacao": "Questões locais podem abordar políticas públicas e desafios sociais do estado.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Geografia do Ceará",
+          "pergunta": "Nível fácil — Geografia do Ceará.\nA vegetação associada ao semiárido cearense é principalmente:\n\nSituação de treino nº 44: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Caatinga.",
+            "B) Tundra.",
+            "C) Mata de araucárias.",
+            "D) Campos de altitude nevados."
+          ],
+          "correta": "A",
+          "explicacao": "A Caatinga é vegetação típica de áreas semiáridas do Nordeste.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Atualidades Fortaleza",
+          "pergunta": "Nível fácil — Atualidades Fortaleza.\nEm provas municipais ou estaduais, Fortaleza pode aparecer em temas de:\n\nSituação de treino nº 2: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Urbanização, economia, cultura e administração pública.",
+            "B) Guerra medieval europeia.",
+            "C) Clima polar.",
+            "D) Colonização japonesa exclusiva."
+          ],
+          "correta": "A",
+          "explicacao": "Questões locais podem abordar características urbanas, culturais e administrativas da capital.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Administração Pública CE",
+          "pergunta": "Nível fácil — Administração Pública CE.\nPolíticas públicas estaduais são ações voltadas para:\n\nSituação de treino nº 56: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Atendimento de necessidades coletivas.",
+            "B) Benefício exclusivo de uma pessoa.",
+            "C) Extinção de serviços essenciais.",
+            "D) Atos sem orçamento e sem lei."
+          ],
+          "correta": "A",
+          "explicacao": "Políticas públicas buscam atender demandas coletivas em áreas como saúde, educação e segurança.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Informática",
+          "pergunta": "Nível fácil — Informática.\nA função de um antivírus é:\n\nSituação de treino nº 46: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Melhorar a caligrafia.",
+            "B) Detectar e ajudar a remover ameaças digitais.",
+            "C) Substituir o sistema operacional.",
+            "D) Criar senhas automaticamente em papel."
+          ],
+          "correta": "B",
+          "explicacao": "Antivírus auxilia na proteção contra malware e outras ameaças.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Atualidades Fortaleza",
+          "pergunta": "Nível fácil — Atualidades Fortaleza.\nO turismo em Fortaleza se relaciona fortemente com:\n\nSituação de treino nº 66: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Litoral, serviços e economia urbana.",
+            "B) Estações de esqui.",
+            "C) Desertos gelados.",
+            "D) Ausência de praias."
+          ],
+          "correta": "A",
+          "explicacao": "O litoral e o setor de serviços têm relevância econômica e social em Fortaleza.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "História do Ceará",
+          "pergunta": "Nível fácil — História do Ceará.\nAs secas no Ceará influenciaram historicamente:\n\nSituação de treino nº 41: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Migrações, políticas públicas e organização social.",
+            "B) Apenas festas religiosas.",
+            "C) O fim da agricultura mundial.",
+            "D) A inexistência de cidades."
+          ],
+          "correta": "A",
+          "explicacao": "As secas marcaram a história social, econômica e política do Ceará.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "História do Ceará",
+          "pergunta": "Nível fácil — História do Ceará.\nFortaleza ganhou importância histórica por sua função:\n\nSituação de treino nº 117: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Administrativa, comercial e litorânea.",
+            "B) Exclusivamente mineradora.",
+            "C) Apenas rural.",
+            "D) Sem relação com o litoral."
+          ],
+          "correta": "A",
+          "explicacao": "Fortaleza consolidou-se como centro político, administrativo e comercial.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Polícia Civil CE",
+          "pergunta": "Nível fácil — Polícia Civil CE.\nInvestigação criminal exige:\n\nSituação de treino nº 11: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Técnica, legalidade e preservação de provas.",
+            "B) Apenas opinião informal.",
+            "C) Ausência total de registro.",
+            "D) Divulgação de dados sigilosos sem critério."
+          ],
+          "correta": "A",
+          "explicacao": "Investigação deve preservar provas e respeitar garantias legais.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Atualidades Fortaleza",
+          "pergunta": "Nível fácil — Atualidades Fortaleza.\nEm provas municipais ou estaduais, Fortaleza pode aparecer em temas de:\n\nSituação de treino nº 62: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Urbanização, economia, cultura e administração pública.",
+            "B) Guerra medieval europeia.",
+            "C) Clima polar.",
+            "D) Colonização japonesa exclusiva."
+          ],
+          "correta": "A",
+          "explicacao": "Questões locais podem abordar características urbanas, culturais e administrativas da capital.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Polícia Penal CE",
+          "pergunta": "Nível fácil — Polícia Penal CE.\nA atividade policial penal está ligada diretamente à:\n\nSituação de treino nº 10: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Segurança dos estabelecimentos penais.",
+            "B) Fiscalização de obras privadas.",
+            "C) Emissão de passaporte.",
+            "D) Registro de nascimento."
+          ],
+          "correta": "A",
+          "explicacao": "A Polícia Penal atua no âmbito da segurança do sistema prisional.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Informática",
+          "pergunta": "Nível fácil — Informática.\nBackup significa:\n\nSituação de treino nº 68: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Cópia de segurança.",
+            "B) Exclusão definitiva.",
+            "C) Impressão colorida.",
+            "D) Bloqueio de teclado."
+          ],
+          "correta": "A",
+          "explicacao": "Backup é cópia de segurança dos dados.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Atualidades Ceará",
+          "pergunta": "Nível fácil — Atualidades Ceará.\nTema recorrente em atualidades cearenses é:\n\nSituação de treino nº 107: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Desenvolvimento econômico, segurança, educação e infraestrutura.",
+            "B) Neve permanente.",
+            "C) Fronteira internacional terrestre com o Chile.",
+            "D) Vulcões ativos urbanos."
+          ],
+          "correta": "A",
+          "explicacao": "Questões locais podem abordar políticas públicas e desafios sociais do estado.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Processo Penal",
+          "pergunta": "Nível fácil — Processo Penal.\nProva ilícita é, em regra:\n\nSituação de treino nº 50: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Livremente usada sempre.",
+            "B) Inadmissível no processo.",
+            "C) Obrigatória em toda sentença.",
+            "D) Sinônimo de prova testemunhal."
+          ],
+          "correta": "B",
+          "explicacao": "A Constituição veda o uso de provas obtidas por meios ilícitos, em regra.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Atualidades Ceará",
+          "pergunta": "Nível fácil — Atualidades Ceará.\nAtualidades em concursos devem ser estudadas com:\n\nSituação de treino nº 87: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Fontes confiáveis e acontecimentos recentes.",
+            "B) Apenas boatos.",
+            "C) Memes sem contexto.",
+            "D) Informações antigas sem verificação."
+          ],
+          "correta": "A",
+          "explicacao": "Atualidades exigem atenção a fontes confiáveis e ao contexto dos acontecimentos.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Segurança Pública CE",
+          "pergunta": "Nível fácil — Segurança Pública CE.\nNo contexto prisional, segurança pública exige:\n\nSituação de treino nº 89: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Controle institucional, respeito legal e prevenção de crises.",
+            "B) Improviso sem protocolos.",
+            "C) Ausência de registro.",
+            "D) Desorganização intencional."
+          ],
+          "correta": "A",
+          "explicacao": "O sistema prisional demanda protocolos, controle e respeito à legalidade.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Polícia Civil CE",
+          "pergunta": "Nível fácil — Polícia Civil CE.\nInvestigação criminal exige:\n\nSituação de treino nº 44: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Técnica, legalidade e preservação de provas.",
+            "B) Apenas opinião informal.",
+            "C) Ausência total de registro.",
+            "D) Divulgação de dados sigilosos sem critério."
+          ],
+          "correta": "A",
+          "explicacao": "Investigação deve preservar provas e respeitar garantias legais.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Geografia do Ceará",
+          "pergunta": "Nível fácil — Geografia do Ceará.\nA gestão de recursos hídricos no Ceará é relevante porque:\n\nSituação de treino nº 108: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Há irregularidade de chuvas e períodos de estiagem.",
+            "B) Não existem rios ou açudes.",
+            "C) Chove igualmente o ano inteiro.",
+            "D) O estado é polar."
+          ],
+          "correta": "A",
+          "explicacao": "A irregularidade das chuvas torna essencial a gestão de açudes, adutoras e abastecimento.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Direitos Humanos",
+          "pergunta": "Direitos humanos buscam proteger principalmente:",
+          "alternativas": [
+            "A) Apenas servidores públicos.",
+            "B) Apenas pessoas condenadas.",
+            "C) A dignidade e liberdades fundamentais da pessoa.",
+            "D) Somente bens patrimoniais."
+          ],
+          "correta": "C",
+          "explicacao": "Direitos humanos protegem a dignidade, a liberdade e a igualdade de todas as pessoas."
+        },
+        {
+          "nivel": "facil",
+          "materia": "História do Ceará",
+          "pergunta": "Nível fácil — História do Ceará.\nA ocupação histórica do Ceará foi marcada por:\n\nSituação de treino nº 97: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Pecuária, interiorização e conflitos territoriais.",
+            "B) Exclusiva mineração de ouro.",
+            "C) Colonização apenas urbana e litorânea.",
+            "D) Ausência de secas."
+          ],
+          "correta": "A",
+          "explicacao": "A pecuária e a interiorização tiveram papel importante na formação histórica cearense.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "História do Ceará",
+          "pergunta": "Nível fácil — História do Ceará.\nFortaleza ganhou importância histórica por sua função:\n\nSituação de treino nº 21: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Administrativa, comercial e litorânea.",
+            "B) Exclusivamente mineradora.",
+            "C) Apenas rural.",
+            "D) Sem relação com o litoral."
+          ],
+          "correta": "A",
+          "explicacao": "Fortaleza consolidou-se como centro político, administrativo e comercial.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        },
+        {
+          "nivel": "facil",
+          "materia": "Português",
+          "pergunta": "Nível fácil — Português.\nA interpretação de texto em prova exige principalmente:\n\nSituação de treino nº 12: considere o tema em contexto de concurso policial/penal.",
+          "alternativas": [
+            "A) Ignorar o enunciado.",
+            "B) Ler apenas a última linha.",
+            "C) Identificar informações explícitas e inferências autorizadas.",
+            "D) Escolher a alternativa maior."
+          ],
+          "correta": "C",
+          "explicacao": "Interpretação exige atenção ao texto, ao comando da questão e às inferências possíveis.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+        }
+      ],
+      "posicao": 0,
+      "atual": {
+        "nivel": "facil",
+        "materia": "Atualidades Ceará",
+        "pergunta": "Nível fácil — Atualidades Ceará.\nAtualidades em concursos devem ser estudadas com:\n\nSituação de treino nº 135: considere o tema em contexto de concurso policial/penal.",
+        "alternativas": [
+          "A) Fontes confiáveis e acontecimentos recentes.",
+          "B) Apenas boatos.",
+          "C) Memes sem contexto.",
+          "D) Informações antigas sem verificação."
+        ],
+        "correta": "A",
+        "explicacao": "Atualidades exigem atenção a fontes confiáveis e ao contexto dos acontecimentos.\n\nObservação: esta questão é autoral e foi criada para treinar conceito básico."
+      },
+      "acertos": 2,
+      "erros": 0,
+      "historico": [
+        {
+          "materia": "Atualidades Ceará",
+          "nivel": "facil",
+          "acertou": true,
+          "marcada": "A",
+          "correta": "A",
+          "quando": 1778112418
+        },
+        {
+          "materia": "Segurança Pública CE",
+          "nivel": "facil",
+          "acertou": true,
+          "marcada": "A",
+          "correta": "A",
+          "quando": 1778112436
+        }
+      ],
+      "respondidas": 2,
+      "por_materia": {
+        "Atualidades Ceará": {
+          "acertos": 1,
+          "erros": 0
+        },
+        "Segurança Pública CE": {
+          "acertos": 1,
+          "erros": 0
+        }
+      },
+      "ultima_atividade": 1778112581
+    }
+  }
+}

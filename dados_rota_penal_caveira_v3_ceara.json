@@ -1,0 +1,1394 @@
+{
+  "usuarios": {
+    "1130170420": {
+      "fila": [
+        {
+          "id": "3359164649400414114",
+          "origem": "geral",
+          "nivel": "caveira",
+          "materia": "Português e Interpretação",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo interpretação textual em prova policial, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a alternativa correta deve respeitar o comando da questão e decorrer de informação explícita ou inferência autorizada pelo texto.",
+            "B) o candidato deve ignorar expressões como 'exceto' e 'incorreta', pois não alteram o raciocínio.",
+            "C) a alternativa mais extensa deve prevalecer quando houver dúvida entre duas respostas parecidas.",
+            "D) elementos de coesão não influenciam a compreensão global do texto em provas objetivas.",
+            "E) inferência textual autoriza conclusão contrária ao ponto de vista sustentado no texto-base."
+          ],
+          "correta": "A",
+          "explicacao": "Interpretação exige atenção ao texto, ao comando e às inferências realmente autorizadas.",
+          "discursiva": false
+        },
+        {
+          "id": "4232246478410783001",
+          "origem": "ceara",
+          "nivel": "caveira",
+          "materia": "Geografia do Ceará",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo semiárido, recursos hídricos e dinâmica territorial, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a gestão de recursos hídricos é irrelevante porque o estado apresenta chuvas regulares durante todo o ano.",
+            "B) o Ceará possui clima predominantemente polar nas áreas interioranas.",
+            "C) a Caatinga não possui relação com o semiárido nordestino.",
+            "D) a geografia do Ceará deve ser estudada sem considerar economia, população ou urbanização.",
+            "E) a geografia cearense exige atenção ao semiárido, irregularidade de chuvas, gestão hídrica, urbanização e contrastes regionais."
+          ],
+          "correta": "E",
+          "explicacao": "Geografia cearense envolve semiárido, Caatinga, água, urbanização, litoral, sertão e desigualdades regionais.",
+          "discursiva": false
+        },
+        {
+          "id": "4745869872769822726",
+          "origem": "ceara",
+          "nivel": "caveira",
+          "materia": "História do Ceará",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo formação histórica, interiorização e desigualdades regionais, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a formação histórica cearense deve ser compreendida considerando interiorização, pecuária, secas, migrações e organização social do território.",
+            "B) a interiorização cearense ocorreu sem relação com atividades econômicas e conflitos territoriais.",
+            "C) as secas não influenciaram migrações, políticas públicas ou organização econômica do Ceará.",
+            "D) a história do Ceará pode ser explicada exclusivamente pela mineração aurífera colonial.",
+            "E) Fortaleza sempre concentrou toda a dinâmica histórica do estado, sem relevância do sertão."
+          ],
+          "correta": "A",
+          "explicacao": "História do Ceará envolve sertão, pecuária, secas, migrações, desigualdade territorial e formação política.",
+          "discursiva": false
+        },
+        {
+          "id": "5272715478953735704",
+          "origem": "ceara",
+          "nivel": "caveira",
+          "materia": "SAP/CE e Sistema Penitenciário",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo estrutura penitenciária, função da Polícia Penal e gestão prisional, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a atuação da Polícia Penal no Ceará relaciona-se à segurança dos estabelecimentos penais, preservação da ordem, disciplina e respeito à legalidade.",
+            "B) a função policial penal dispensa análise de dever funcional e responsabilidade institucional.",
+            "C) a Polícia Penal atua apenas como força administrativa sem relação com segurança dos estabelecimentos penais.",
+            "D) a disciplina prisional autoriza medidas sem registro, controle ou proporcionalidade.",
+            "E) o sistema penitenciário estadual não se conecta com execução penal, direitos humanos ou segurança pública."
+          ],
+          "correta": "A",
+          "explicacao": "Polícia Penal envolve segurança prisional, disciplina, legalidade, dever funcional e proteção institucional.",
+          "discursiva": false
+        },
+        {
+          "id": "8602257060179357899",
+          "origem": "geral",
+          "nivel": "caveira",
+          "materia": "Raciocínio Lógico",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo interpretação lógica de enunciados normativos, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) em questões lógicas, expressões como 'todo', 'algum', 'nenhum' e 'somente se' alteram completamente a validade da conclusão.",
+            "B) a palavra 'todo' equivale sempre a 'algum', desde que o assunto seja jurídico.",
+            "C) a conclusão lógica independe das premissas quando o tema envolve segurança pública.",
+            "D) condicionais não aparecem em questões de concursos policiais.",
+            "E) negações compostas podem ser resolvidas apenas pela intuição do candidato."
+          ],
+          "correta": "A",
+          "explicacao": "Raciocínio lógico exige atenção a quantificadores, negações, condicionais e validade das conclusões.",
+          "discursiva": false
+        },
+        {
+          "id": "5286350007470523083",
+          "origem": "geral",
+          "nivel": "caveira",
+          "materia": "Direito Penal",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo dolo, culpa e responsabilização penal, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a negligência sempre afasta a tipicidade penal quando praticada no exercício de função pública.",
+            "B) o dolo eventual se confunde com culpa consciente, pois em ambos o agente aceita o resultado como consequência necessária.",
+            "C) o dolo eventual exige que o agente assuma o risco de produzir o resultado, não bastando a simples previsão abstrata do perigo.",
+            "D) a culpa consciente exige vontade direta de produzir o resultado, ainda que por meio de conduta omissiva.",
+            "E) todo resultado lesivo no ambiente prisional gera automaticamente responsabilidade penal objetiva do servidor."
+          ],
+          "correta": "C",
+          "explicacao": "Dolo eventual exige assunção do risco. Culpa consciente envolve previsão do resultado, mas confiança de que ele não ocorrerá.",
+          "discursiva": false
+        },
+        {
+          "id": "2954161954282999515",
+          "origem": "idecan",
+          "nivel": "caveira",
+          "materia": "IDECAN - Estilo de Banca",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo literalidade, exceções e alternativas parcialmente corretas, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) questões de legislação específica não podem misturar Constituição, lei estadual e direitos humanos.",
+            "B) a banca pode combinar literalidade legal com interpretação institucional, exigindo atenção ao comando 'correta', 'incorreta' e 'exceto'.",
+            "C) a presença da palavra 'sempre' torna a alternativa automaticamente correta em matéria jurídica.",
+            "D) a IDECAN cobra somente memorização de números de artigos, sem interpretar situações concretas.",
+            "E) as alternativas parcialmente corretas devem ser marcadas quando trouxerem expressão técnica verdadeira."
+          ],
+          "correta": "B",
+          "explicacao": "Bancas usam alternativas parcialmente corretas. O candidato deve observar restrições, exceções e comando exato.",
+          "discursiva": false
+        },
+        {
+          "id": "7279247703036670371",
+          "origem": "ceara",
+          "nivel": "caveira",
+          "materia": "Fortaleza e Região Metropolitana",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo urbanização, desigualdade, mobilidade e segurança, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) questões regionais nunca relacionam capital, periferia, economia urbana e segurança.",
+            "B) a urbanização de Fortaleza eliminou desigualdades socioespaciais e problemas de infraestrutura.",
+            "C) Fortaleza deve ser estudada apenas por seus aspectos turísticos, sem relação com políticas públicas.",
+            "D) a Região Metropolitana de Fortaleza não possui relevância para temas de segurança pública estadual.",
+            "E) Fortaleza e sua região metropolitana concentram desafios urbanos ligados à mobilidade, desigualdade socioespacial, segurança pública e serviços."
+          ],
+          "correta": "E",
+          "explicacao": "Fortaleza/RM pode aparecer ligada a urbanização, desigualdade, mobilidade, turismo, economia e segurança.",
+          "discursiva": false
+        },
+        {
+          "id": "4232246478410783001",
+          "origem": "ceara",
+          "nivel": "caveira",
+          "materia": "Geografia do Ceará",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo semiárido, recursos hídricos e dinâmica territorial, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a gestão de recursos hídricos é irrelevante porque o estado apresenta chuvas regulares durante todo o ano.",
+            "B) a geografia do Ceará deve ser estudada sem considerar economia, população ou urbanização.",
+            "C) o Ceará possui clima predominantemente polar nas áreas interioranas.",
+            "D) a Caatinga não possui relação com o semiárido nordestino.",
+            "E) a geografia cearense exige atenção ao semiárido, irregularidade de chuvas, gestão hídrica, urbanização e contrastes regionais."
+          ],
+          "correta": "E",
+          "explicacao": "Geografia cearense envolve semiárido, Caatinga, água, urbanização, litoral, sertão e desigualdades regionais.",
+          "discursiva": false
+        },
+        {
+          "id": "6463745464225164384",
+          "origem": "geral",
+          "nivel": "caveira",
+          "materia": "Direito Penal",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo dolo, culpa e responsabilização penal, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) todo resultado lesivo no ambiente prisional gera automaticamente responsabilidade penal objetiva do servidor.",
+            "B) o dolo eventual exige que o agente assuma o risco de produzir o resultado, não bastando a simples previsão abstrata do perigo.",
+            "C) a culpa consciente exige vontade direta de produzir o resultado, ainda que por meio de conduta omissiva.",
+            "D) o dolo eventual se confunde com culpa consciente, pois em ambos o agente aceita o resultado como consequência necessária.",
+            "E) a negligência sempre afasta a tipicidade penal quando praticada no exercício de função pública."
+          ],
+          "correta": "B",
+          "explicacao": "Dolo eventual exige assunção do risco. Culpa consciente envolve previsão do resultado, mas confiança de que ele não ocorrerá.",
+          "discursiva": false
+        },
+        {
+          "id": "3016247443604946385",
+          "origem": "apostila",
+          "nivel": "caveira",
+          "materia": "Legislação Específica PPCE",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo Constituição Estadual, legislação estadual e estrutura penitenciária, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a legislação específica deve ser decorada apenas pelo número das leis, sem análise do conteúdo.",
+            "B) portarias, leis e Constituição possuem a mesma hierarquia normativa.",
+            "C) normas administrativas podem contrariar livremente a Constituição quando tratam de segurança penitenciária.",
+            "D) a função policial penal é incompatível com direitos humanos e controle institucional.",
+            "E) a legislação específica deve ser estudada de forma integrada com Constituição Estadual, organização penitenciária, dever funcional e direitos fundamentais."
+          ],
+          "correta": "E",
+          "explicacao": "Legislação específica exige hierarquia normativa, leitura da lei, finalidade institucional e limites constitucionais.",
+          "discursiva": false
+        },
+        {
+          "id": "7122514531225955987",
+          "origem": "geral",
+          "nivel": "caveira",
+          "materia": "Informática",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo segurança da informação em contexto institucional, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) medidas como autenticação forte, backup, controle de acesso e cuidado com phishing reduzem riscos à integridade e confidencialidade dos dados.",
+            "B) phishing é ameaça física restrita a equipamentos sem conexão com a internet.",
+            "C) a confidencialidade impede qualquer registro de acesso aos sistemas institucionais.",
+            "D) senhas compartilhadas aumentam a eficiência administrativa sem comprometer a segurança.",
+            "E) o backup substitui a necessidade de controle de acesso, pois cópias eliminam riscos de vazamento."
+          ],
+          "correta": "A",
+          "explicacao": "Segurança da informação envolve confidencialidade, integridade, disponibilidade, autenticação e prevenção de golpes.",
+          "discursiva": false
+        },
+        {
+          "id": "4667202985335319315",
+          "origem": "policial",
+          "nivel": "caveira",
+          "materia": "Polícia Penal + Civil",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo atuação integrada e investigação, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) o registro formal de ocorrência é dispensável quando o servidor possui convicção pessoal sobre os fatos.",
+            "B) a atuação policial deve conciliar eficiência, legalidade, preservação da prova, respeito aos direitos fundamentais e finalidade pública.",
+            "C) a eficiência policial autoriza desprezar formalidades legais sempre que houver suspeita fundada.",
+            "D) direitos fundamentais são incompatíveis com atividades de segurança pública.",
+            "E) a investigação criminal e a segurança penitenciária possuem natureza idêntica e atribuições indistintas."
+          ],
+          "correta": "B",
+          "explicacao": "Atuação policial exige legalidade, técnica, registro, respeito a direitos e proteção social.",
+          "discursiva": false
+        },
+        {
+          "id": "1366938902937744683",
+          "origem": "geral",
+          "nivel": "caveira",
+          "materia": "Direitos Humanos",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo dignidade humana no cárcere, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a pessoa privada de liberdade mantém direitos fundamentais compatíveis com a execução da pena, inclusive integridade física e moral.",
+            "B) a disciplina prisional autoriza tratamento degradante se houver interesse da administração.",
+            "C) a condenação criminal elimina a titularidade de direitos fundamentais enquanto durar a pena.",
+            "D) direitos humanos no cárcere são recomendações sem efeito jurídico em concursos policiais.",
+            "E) a proteção da dignidade humana impede qualquer tipo de sanção disciplinar."
+          ],
+          "correta": "A",
+          "explicacao": "A prisão restringe a liberdade, mas não elimina dignidade, integridade física e moral nem demais direitos compatíveis.",
+          "discursiva": false
+        },
+        {
+          "id": "3851509648753029802",
+          "origem": "ceara",
+          "nivel": "caveira",
+          "materia": "Fortaleza e Região Metropolitana",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo urbanização, desigualdade, mobilidade e segurança, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a urbanização de Fortaleza eliminou desigualdades socioespaciais e problemas de infraestrutura.",
+            "B) Fortaleza deve ser estudada apenas por seus aspectos turísticos, sem relação com políticas públicas.",
+            "C) questões regionais nunca relacionam capital, periferia, economia urbana e segurança.",
+            "D) Fortaleza e sua região metropolitana concentram desafios urbanos ligados à mobilidade, desigualdade socioespacial, segurança pública e serviços.",
+            "E) a Região Metropolitana de Fortaleza não possui relevância para temas de segurança pública estadual."
+          ],
+          "correta": "D",
+          "explicacao": "Fortaleza/RM pode aparecer ligada a urbanização, desigualdade, mobilidade, turismo, economia e segurança.",
+          "discursiva": false
+        },
+        {
+          "id": "5286350007470523083",
+          "origem": "geral",
+          "nivel": "caveira",
+          "materia": "Direito Penal",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo dolo, culpa e responsabilização penal, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a negligência sempre afasta a tipicidade penal quando praticada no exercício de função pública.",
+            "B) o dolo eventual se confunde com culpa consciente, pois em ambos o agente aceita o resultado como consequência necessária.",
+            "C) o dolo eventual exige que o agente assuma o risco de produzir o resultado, não bastando a simples previsão abstrata do perigo.",
+            "D) todo resultado lesivo no ambiente prisional gera automaticamente responsabilidade penal objetiva do servidor.",
+            "E) a culpa consciente exige vontade direta de produzir o resultado, ainda que por meio de conduta omissiva."
+          ],
+          "correta": "C",
+          "explicacao": "Dolo eventual exige assunção do risco. Culpa consciente envolve previsão do resultado, mas confiança de que ele não ocorrerá.",
+          "discursiva": false
+        },
+        {
+          "id": "2947074443655155354",
+          "origem": "geral",
+          "nivel": "caveira",
+          "materia": "Processo Penal",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo cadeia de custódia e preservação de prova, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a cadeia de custódia se aplica somente a crimes patrimoniais sem violência.",
+            "B) a cadeia de custódia é dispensável sempre que houver confissão informal do investigado.",
+            "C) a quebra da cadeia de custódia sempre gera absolvição automática, independentemente da análise do caso concreto.",
+            "D) vestígios em ambiente prisional podem ser manipulados sem registro quando houver urgência administrativa.",
+            "E) a cadeia de custódia busca preservar a autenticidade, integridade e rastreabilidade dos vestígios desde o reconhecimento até o descarte."
+          ],
+          "correta": "E",
+          "explicacao": "A cadeia de custódia protege a confiabilidade da prova. Irregularidades devem ser analisadas conforme impacto concreto.",
+          "discursiva": false
+        },
+        {
+          "id": "2822226020396644579",
+          "origem": "geral",
+          "nivel": "caveira",
+          "materia": "Português e Interpretação",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo interpretação textual em prova policial, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a alternativa mais extensa deve prevalecer quando houver dúvida entre duas respostas parecidas.",
+            "B) a alternativa correta deve respeitar o comando da questão e decorrer de informação explícita ou inferência autorizada pelo texto.",
+            "C) elementos de coesão não influenciam a compreensão global do texto em provas objetivas.",
+            "D) inferência textual autoriza conclusão contrária ao ponto de vista sustentado no texto-base.",
+            "E) o candidato deve ignorar expressões como 'exceto' e 'incorreta', pois não alteram o raciocínio."
+          ],
+          "correta": "B",
+          "explicacao": "Interpretação exige atenção ao texto, ao comando e às inferências realmente autorizadas.",
+          "discursiva": false
+        },
+        {
+          "id": "4824824724047708744",
+          "origem": "geral",
+          "nivel": "caveira",
+          "materia": "Direito Penal",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo dolo, culpa e responsabilização penal, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) o dolo eventual se confunde com culpa consciente, pois em ambos o agente aceita o resultado como consequência necessária.",
+            "B) todo resultado lesivo no ambiente prisional gera automaticamente responsabilidade penal objetiva do servidor.",
+            "C) a negligência sempre afasta a tipicidade penal quando praticada no exercício de função pública.",
+            "D) o dolo eventual exige que o agente assuma o risco de produzir o resultado, não bastando a simples previsão abstrata do perigo.",
+            "E) a culpa consciente exige vontade direta de produzir o resultado, ainda que por meio de conduta omissiva."
+          ],
+          "correta": "D",
+          "explicacao": "Dolo eventual exige assunção do risco. Culpa consciente envolve previsão do resultado, mas confiança de que ele não ocorrerá.",
+          "discursiva": false
+        },
+        {
+          "id": "5617489564474844658",
+          "origem": "ceara",
+          "nivel": "caveira",
+          "materia": "SAP/CE e Sistema Penitenciário",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo estrutura penitenciária, função da Polícia Penal e gestão prisional, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a função policial penal dispensa análise de dever funcional e responsabilidade institucional.",
+            "B) a Polícia Penal atua apenas como força administrativa sem relação com segurança dos estabelecimentos penais.",
+            "C) a atuação da Polícia Penal no Ceará relaciona-se à segurança dos estabelecimentos penais, preservação da ordem, disciplina e respeito à legalidade.",
+            "D) a disciplina prisional autoriza medidas sem registro, controle ou proporcionalidade.",
+            "E) o sistema penitenciário estadual não se conecta com execução penal, direitos humanos ou segurança pública."
+          ],
+          "correta": "C",
+          "explicacao": "Polícia Penal envolve segurança prisional, disciplina, legalidade, dever funcional e proteção institucional.",
+          "discursiva": false
+        },
+        {
+          "id": "904413906321158359",
+          "origem": "ceara",
+          "nivel": "caveira",
+          "materia": "Segurança Pública no Ceará",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo políticas públicas, prevenção e sistema penitenciário, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) segurança pública estadual se limita ao policiamento ostensivo e não dialoga com sistema prisional.",
+            "B) prevenção, inteligência e investigação não possuem relação com políticas públicas de segurança.",
+            "C) o sistema penitenciário é tema isolado, sem impacto sobre segurança pública estadual.",
+            "D) a segurança pública no Ceará pode ser analisada pela integração entre prevenção, investigação, policiamento, sistema penitenciário e políticas sociais.",
+            "E) direitos humanos impedem atuação firme do Estado em segurança pública."
+          ],
+          "correta": "D",
+          "explicacao": "Segurança pública envolve integração institucional, prevenção, investigação, sistema prisional e direitos.",
+          "discursiva": false
+        },
+        {
+          "id": "2787980555059718445",
+          "origem": "geral",
+          "nivel": "caveira",
+          "materia": "Informática",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo segurança da informação em contexto institucional, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) phishing é ameaça física restrita a equipamentos sem conexão com a internet.",
+            "B) medidas como autenticação forte, backup, controle de acesso e cuidado com phishing reduzem riscos à integridade e confidencialidade dos dados.",
+            "C) o backup substitui a necessidade de controle de acesso, pois cópias eliminam riscos de vazamento.",
+            "D) senhas compartilhadas aumentam a eficiência administrativa sem comprometer a segurança.",
+            "E) a confidencialidade impede qualquer registro de acesso aos sistemas institucionais."
+          ],
+          "correta": "B",
+          "explicacao": "Segurança da informação envolve confidencialidade, integridade, disponibilidade, autenticação e prevenção de golpes.",
+          "discursiva": false
+        },
+        {
+          "id": "3016247443604946385",
+          "origem": "apostila",
+          "nivel": "caveira",
+          "materia": "Legislação Específica PPCE",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo Constituição Estadual, legislação estadual e estrutura penitenciária, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a legislação específica deve ser decorada apenas pelo número das leis, sem análise do conteúdo.",
+            "B) normas administrativas podem contrariar livremente a Constituição quando tratam de segurança penitenciária.",
+            "C) portarias, leis e Constituição possuem a mesma hierarquia normativa.",
+            "D) a função policial penal é incompatível com direitos humanos e controle institucional.",
+            "E) a legislação específica deve ser estudada de forma integrada com Constituição Estadual, organização penitenciária, dever funcional e direitos fundamentais."
+          ],
+          "correta": "E",
+          "explicacao": "Legislação específica exige hierarquia normativa, leitura da lei, finalidade institucional e limites constitucionais.",
+          "discursiva": false
+        },
+        {
+          "id": "1377489234415523242",
+          "origem": "policial",
+          "nivel": "caveira",
+          "materia": "Polícia Penal + Civil",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo atuação integrada e investigação, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a eficiência policial autoriza desprezar formalidades legais sempre que houver suspeita fundada.",
+            "B) direitos fundamentais são incompatíveis com atividades de segurança pública.",
+            "C) o registro formal de ocorrência é dispensável quando o servidor possui convicção pessoal sobre os fatos.",
+            "D) a investigação criminal e a segurança penitenciária possuem natureza idêntica e atribuições indistintas.",
+            "E) a atuação policial deve conciliar eficiência, legalidade, preservação da prova, respeito aos direitos fundamentais e finalidade pública."
+          ],
+          "correta": "E",
+          "explicacao": "Atuação policial exige legalidade, técnica, registro, respeito a direitos e proteção social.",
+          "discursiva": false
+        },
+        {
+          "id": "758793331064711243",
+          "origem": "ceara",
+          "nivel": "caveira",
+          "materia": "Segurança Pública no Ceará",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo políticas públicas, prevenção e sistema penitenciário, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) prevenção, inteligência e investigação não possuem relação com políticas públicas de segurança.",
+            "B) o sistema penitenciário é tema isolado, sem impacto sobre segurança pública estadual.",
+            "C) a segurança pública no Ceará pode ser analisada pela integração entre prevenção, investigação, policiamento, sistema penitenciário e políticas sociais.",
+            "D) direitos humanos impedem atuação firme do Estado em segurança pública.",
+            "E) segurança pública estadual se limita ao policiamento ostensivo e não dialoga com sistema prisional."
+          ],
+          "correta": "C",
+          "explicacao": "Segurança pública envolve integração institucional, prevenção, investigação, sistema prisional e direitos.",
+          "discursiva": false
+        },
+        {
+          "id": "2954161954282999515",
+          "origem": "idecan",
+          "nivel": "caveira",
+          "materia": "IDECAN - Estilo de Banca",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo literalidade, exceções e alternativas parcialmente corretas, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) as alternativas parcialmente corretas devem ser marcadas quando trouxerem expressão técnica verdadeira.",
+            "B) a banca pode combinar literalidade legal com interpretação institucional, exigindo atenção ao comando 'correta', 'incorreta' e 'exceto'.",
+            "C) questões de legislação específica não podem misturar Constituição, lei estadual e direitos humanos.",
+            "D) a IDECAN cobra somente memorização de números de artigos, sem interpretar situações concretas.",
+            "E) a presença da palavra 'sempre' torna a alternativa automaticamente correta em matéria jurídica."
+          ],
+          "correta": "B",
+          "explicacao": "Bancas usam alternativas parcialmente corretas. O candidato deve observar restrições, exceções e comando exato.",
+          "discursiva": false
+        },
+        {
+          "id": "6463745464225164384",
+          "origem": "geral",
+          "nivel": "caveira",
+          "materia": "Direito Penal",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo dolo, culpa e responsabilização penal, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) o dolo eventual se confunde com culpa consciente, pois em ambos o agente aceita o resultado como consequência necessária.",
+            "B) o dolo eventual exige que o agente assuma o risco de produzir o resultado, não bastando a simples previsão abstrata do perigo.",
+            "C) a negligência sempre afasta a tipicidade penal quando praticada no exercício de função pública.",
+            "D) todo resultado lesivo no ambiente prisional gera automaticamente responsabilidade penal objetiva do servidor.",
+            "E) a culpa consciente exige vontade direta de produzir o resultado, ainda que por meio de conduta omissiva."
+          ],
+          "correta": "B",
+          "explicacao": "Dolo eventual exige assunção do risco. Culpa consciente envolve previsão do resultado, mas confiança de que ele não ocorrerá.",
+          "discursiva": false
+        },
+        {
+          "id": "1180132882863582656",
+          "origem": "ceara",
+          "nivel": "caveira",
+          "materia": "Fortaleza e Região Metropolitana",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo urbanização, desigualdade, mobilidade e segurança, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) questões regionais nunca relacionam capital, periferia, economia urbana e segurança.",
+            "B) Fortaleza e sua região metropolitana concentram desafios urbanos ligados à mobilidade, desigualdade socioespacial, segurança pública e serviços.",
+            "C) a urbanização de Fortaleza eliminou desigualdades socioespaciais e problemas de infraestrutura.",
+            "D) Fortaleza deve ser estudada apenas por seus aspectos turísticos, sem relação com políticas públicas.",
+            "E) a Região Metropolitana de Fortaleza não possui relevância para temas de segurança pública estadual."
+          ],
+          "correta": "B",
+          "explicacao": "Fortaleza/RM pode aparecer ligada a urbanização, desigualdade, mobilidade, turismo, economia e segurança.",
+          "discursiva": false
+        },
+        {
+          "id": "3179816218894631825",
+          "origem": "policial",
+          "nivel": "caveira",
+          "materia": "Polícia Penal + Civil",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo atuação integrada e investigação, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) direitos fundamentais são incompatíveis com atividades de segurança pública.",
+            "B) o registro formal de ocorrência é dispensável quando o servidor possui convicção pessoal sobre os fatos.",
+            "C) a investigação criminal e a segurança penitenciária possuem natureza idêntica e atribuições indistintas.",
+            "D) a atuação policial deve conciliar eficiência, legalidade, preservação da prova, respeito aos direitos fundamentais e finalidade pública.",
+            "E) a eficiência policial autoriza desprezar formalidades legais sempre que houver suspeita fundada."
+          ],
+          "correta": "D",
+          "explicacao": "Atuação policial exige legalidade, técnica, registro, respeito a direitos e proteção social.",
+          "discursiva": false
+        },
+        {
+          "id": "2787980555059718445",
+          "origem": "geral",
+          "nivel": "caveira",
+          "materia": "Informática",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo segurança da informação em contexto institucional, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a confidencialidade impede qualquer registro de acesso aos sistemas institucionais.",
+            "B) medidas como autenticação forte, backup, controle de acesso e cuidado com phishing reduzem riscos à integridade e confidencialidade dos dados.",
+            "C) o backup substitui a necessidade de controle de acesso, pois cópias eliminam riscos de vazamento.",
+            "D) senhas compartilhadas aumentam a eficiência administrativa sem comprometer a segurança.",
+            "E) phishing é ameaça física restrita a equipamentos sem conexão com a internet."
+          ],
+          "correta": "B",
+          "explicacao": "Segurança da informação envolve confidencialidade, integridade, disponibilidade, autenticação e prevenção de golpes.",
+          "discursiva": false
+        },
+        {
+          "id": "7871485081315467590",
+          "origem": "geral",
+          "nivel": "caveira",
+          "materia": "Processo Penal",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo cadeia de custódia e preservação de prova, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) vestígios em ambiente prisional podem ser manipulados sem registro quando houver urgência administrativa.",
+            "B) a quebra da cadeia de custódia sempre gera absolvição automática, independentemente da análise do caso concreto.",
+            "C) a cadeia de custódia busca preservar a autenticidade, integridade e rastreabilidade dos vestígios desde o reconhecimento até o descarte.",
+            "D) a cadeia de custódia é dispensável sempre que houver confissão informal do investigado.",
+            "E) a cadeia de custódia se aplica somente a crimes patrimoniais sem violência."
+          ],
+          "correta": "C",
+          "explicacao": "A cadeia de custódia protege a confiabilidade da prova. Irregularidades devem ser analisadas conforme impacto concreto.",
+          "discursiva": false
+        },
+        {
+          "id": "3828390980044428750",
+          "origem": "ceara",
+          "nivel": "caveira",
+          "materia": "Segurança Pública no Ceará",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo políticas públicas, prevenção e sistema penitenciário, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) o sistema penitenciário é tema isolado, sem impacto sobre segurança pública estadual.",
+            "B) segurança pública estadual se limita ao policiamento ostensivo e não dialoga com sistema prisional.",
+            "C) prevenção, inteligência e investigação não possuem relação com políticas públicas de segurança.",
+            "D) direitos humanos impedem atuação firme do Estado em segurança pública.",
+            "E) a segurança pública no Ceará pode ser analisada pela integração entre prevenção, investigação, policiamento, sistema penitenciário e políticas sociais."
+          ],
+          "correta": "E",
+          "explicacao": "Segurança pública envolve integração institucional, prevenção, investigação, sistema prisional e direitos.",
+          "discursiva": false
+        },
+        {
+          "id": "1210497677728498307",
+          "origem": "ceara",
+          "nivel": "caveira",
+          "materia": "SAP/CE e Sistema Penitenciário",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo estrutura penitenciária, função da Polícia Penal e gestão prisional, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) o sistema penitenciário estadual não se conecta com execução penal, direitos humanos ou segurança pública.",
+            "B) a Polícia Penal atua apenas como força administrativa sem relação com segurança dos estabelecimentos penais.",
+            "C) a função policial penal dispensa análise de dever funcional e responsabilidade institucional.",
+            "D) a disciplina prisional autoriza medidas sem registro, controle ou proporcionalidade.",
+            "E) a atuação da Polícia Penal no Ceará relaciona-se à segurança dos estabelecimentos penais, preservação da ordem, disciplina e respeito à legalidade."
+          ],
+          "correta": "E",
+          "explicacao": "Polícia Penal envolve segurança prisional, disciplina, legalidade, dever funcional e proteção institucional.",
+          "discursiva": false
+        },
+        {
+          "id": "7884903122964820796",
+          "origem": "geral",
+          "nivel": "caveira",
+          "materia": "LEP e Execução Penal",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo finalidade da execução penal, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) o cumprimento da pena depende apenas de ato administrativo, sem controle jurisdicional.",
+            "B) a integração social prevista na LEP impede a aplicação de sanções disciplinares.",
+            "C) a execução penal tem finalidade exclusivamente retributiva, afastando qualquer preocupação social.",
+            "D) a LEP não se aplica a direitos e deveres da pessoa presa, tratando apenas de cálculo de pena.",
+            "E) a execução penal tem por finalidade efetivar as disposições da sentença e proporcionar condições para integração social do condenado e do internado."
+          ],
+          "correta": "E",
+          "explicacao": "A LEP une efetivação da sentença e finalidade ressocializadora, sem eliminar disciplina e controle judicial.",
+          "discursiva": false
+        },
+        {
+          "id": "1126180022797379023",
+          "origem": "geral",
+          "nivel": "caveira",
+          "materia": "Direito Penal",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo dolo, culpa e responsabilização penal, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) todo resultado lesivo no ambiente prisional gera automaticamente responsabilidade penal objetiva do servidor.",
+            "B) o dolo eventual se confunde com culpa consciente, pois em ambos o agente aceita o resultado como consequência necessária.",
+            "C) a culpa consciente exige vontade direta de produzir o resultado, ainda que por meio de conduta omissiva.",
+            "D) a negligência sempre afasta a tipicidade penal quando praticada no exercício de função pública.",
+            "E) o dolo eventual exige que o agente assuma o risco de produzir o resultado, não bastando a simples previsão abstrata do perigo."
+          ],
+          "correta": "E",
+          "explicacao": "Dolo eventual exige assunção do risco. Culpa consciente envolve previsão do resultado, mas confiança de que ele não ocorrerá.",
+          "discursiva": false
+        },
+        {
+          "id": "4456651780701729351",
+          "origem": "ceara",
+          "nivel": "caveira",
+          "materia": "História do Ceará",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo formação histórica, interiorização e desigualdades regionais, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) as secas não influenciaram migrações, políticas públicas ou organização econômica do Ceará.",
+            "B) Fortaleza sempre concentrou toda a dinâmica histórica do estado, sem relevância do sertão.",
+            "C) a história do Ceará pode ser explicada exclusivamente pela mineração aurífera colonial.",
+            "D) a formação histórica cearense deve ser compreendida considerando interiorização, pecuária, secas, migrações e organização social do território.",
+            "E) a interiorização cearense ocorreu sem relação com atividades econômicas e conflitos territoriais."
+          ],
+          "correta": "D",
+          "explicacao": "História do Ceará envolve sertão, pecuária, secas, migrações, desigualdade territorial e formação política.",
+          "discursiva": false
+        },
+        {
+          "id": "2895004832958896912",
+          "origem": "geral",
+          "nivel": "caveira",
+          "materia": "Português e Interpretação",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo interpretação textual em prova policial, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a alternativa mais extensa deve prevalecer quando houver dúvida entre duas respostas parecidas.",
+            "B) elementos de coesão não influenciam a compreensão global do texto em provas objetivas.",
+            "C) inferência textual autoriza conclusão contrária ao ponto de vista sustentado no texto-base.",
+            "D) a alternativa correta deve respeitar o comando da questão e decorrer de informação explícita ou inferência autorizada pelo texto.",
+            "E) o candidato deve ignorar expressões como 'exceto' e 'incorreta', pois não alteram o raciocínio."
+          ],
+          "correta": "D",
+          "explicacao": "Interpretação exige atenção ao texto, ao comando e às inferências realmente autorizadas.",
+          "discursiva": false
+        },
+        {
+          "id": "904413906321158359",
+          "origem": "ceara",
+          "nivel": "caveira",
+          "materia": "Segurança Pública no Ceará",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo políticas públicas, prevenção e sistema penitenciário, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) prevenção, inteligência e investigação não possuem relação com políticas públicas de segurança.",
+            "B) segurança pública estadual se limita ao policiamento ostensivo e não dialoga com sistema prisional.",
+            "C) o sistema penitenciário é tema isolado, sem impacto sobre segurança pública estadual.",
+            "D) a segurança pública no Ceará pode ser analisada pela integração entre prevenção, investigação, policiamento, sistema penitenciário e políticas sociais.",
+            "E) direitos humanos impedem atuação firme do Estado em segurança pública."
+          ],
+          "correta": "D",
+          "explicacao": "Segurança pública envolve integração institucional, prevenção, investigação, sistema prisional e direitos.",
+          "discursiva": false
+        },
+        {
+          "id": "6463745464225164384",
+          "origem": "geral",
+          "nivel": "caveira",
+          "materia": "Direito Penal",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo dolo, culpa e responsabilização penal, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a culpa consciente exige vontade direta de produzir o resultado, ainda que por meio de conduta omissiva.",
+            "B) o dolo eventual exige que o agente assuma o risco de produzir o resultado, não bastando a simples previsão abstrata do perigo.",
+            "C) a negligência sempre afasta a tipicidade penal quando praticada no exercício de função pública.",
+            "D) todo resultado lesivo no ambiente prisional gera automaticamente responsabilidade penal objetiva do servidor.",
+            "E) o dolo eventual se confunde com culpa consciente, pois em ambos o agente aceita o resultado como consequência necessária."
+          ],
+          "correta": "B",
+          "explicacao": "Dolo eventual exige assunção do risco. Culpa consciente envolve previsão do resultado, mas confiança de que ele não ocorrerá.",
+          "discursiva": false
+        },
+        {
+          "id": "5617489564474844658",
+          "origem": "ceara",
+          "nivel": "caveira",
+          "materia": "SAP/CE e Sistema Penitenciário",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo estrutura penitenciária, função da Polícia Penal e gestão prisional, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a disciplina prisional autoriza medidas sem registro, controle ou proporcionalidade.",
+            "B) o sistema penitenciário estadual não se conecta com execução penal, direitos humanos ou segurança pública.",
+            "C) a atuação da Polícia Penal no Ceará relaciona-se à segurança dos estabelecimentos penais, preservação da ordem, disciplina e respeito à legalidade.",
+            "D) a função policial penal dispensa análise de dever funcional e responsabilidade institucional.",
+            "E) a Polícia Penal atua apenas como força administrativa sem relação com segurança dos estabelecimentos penais."
+          ],
+          "correta": "C",
+          "explicacao": "Polícia Penal envolve segurança prisional, disciplina, legalidade, dever funcional e proteção institucional.",
+          "discursiva": false
+        },
+        {
+          "id": "3509971225706488879",
+          "origem": "idecan",
+          "nivel": "caveira",
+          "materia": "IDECAN - Estilo de Banca",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo literalidade, exceções e alternativas parcialmente corretas, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a IDECAN cobra somente memorização de números de artigos, sem interpretar situações concretas.",
+            "B) questões de legislação específica não podem misturar Constituição, lei estadual e direitos humanos.",
+            "C) as alternativas parcialmente corretas devem ser marcadas quando trouxerem expressão técnica verdadeira.",
+            "D) a presença da palavra 'sempre' torna a alternativa automaticamente correta em matéria jurídica.",
+            "E) a banca pode combinar literalidade legal com interpretação institucional, exigindo atenção ao comando 'correta', 'incorreta' e 'exceto'."
+          ],
+          "correta": "E",
+          "explicacao": "Bancas usam alternativas parcialmente corretas. O candidato deve observar restrições, exceções e comando exato.",
+          "discursiva": false
+        },
+        {
+          "id": "2895004832958896912",
+          "origem": "geral",
+          "nivel": "caveira",
+          "materia": "Português e Interpretação",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo interpretação textual em prova policial, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) o candidato deve ignorar expressões como 'exceto' e 'incorreta', pois não alteram o raciocínio.",
+            "B) elementos de coesão não influenciam a compreensão global do texto em provas objetivas.",
+            "C) a alternativa mais extensa deve prevalecer quando houver dúvida entre duas respostas parecidas.",
+            "D) a alternativa correta deve respeitar o comando da questão e decorrer de informação explícita ou inferência autorizada pelo texto.",
+            "E) inferência textual autoriza conclusão contrária ao ponto de vista sustentado no texto-base."
+          ],
+          "correta": "D",
+          "explicacao": "Interpretação exige atenção ao texto, ao comando e às inferências realmente autorizadas.",
+          "discursiva": false
+        },
+        {
+          "id": "3359164649400414114",
+          "origem": "geral",
+          "nivel": "caveira",
+          "materia": "Português e Interpretação",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo interpretação textual em prova policial, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a alternativa correta deve respeitar o comando da questão e decorrer de informação explícita ou inferência autorizada pelo texto.",
+            "B) a alternativa mais extensa deve prevalecer quando houver dúvida entre duas respostas parecidas.",
+            "C) elementos de coesão não influenciam a compreensão global do texto em provas objetivas.",
+            "D) o candidato deve ignorar expressões como 'exceto' e 'incorreta', pois não alteram o raciocínio.",
+            "E) inferência textual autoriza conclusão contrária ao ponto de vista sustentado no texto-base."
+          ],
+          "correta": "A",
+          "explicacao": "Interpretação exige atenção ao texto, ao comando e às inferências realmente autorizadas.",
+          "discursiva": false
+        },
+        {
+          "id": "3851509648753029802",
+          "origem": "ceara",
+          "nivel": "caveira",
+          "materia": "Fortaleza e Região Metropolitana",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo urbanização, desigualdade, mobilidade e segurança, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a Região Metropolitana de Fortaleza não possui relevância para temas de segurança pública estadual.",
+            "B) Fortaleza deve ser estudada apenas por seus aspectos turísticos, sem relação com políticas públicas.",
+            "C) a urbanização de Fortaleza eliminou desigualdades socioespaciais e problemas de infraestrutura.",
+            "D) Fortaleza e sua região metropolitana concentram desafios urbanos ligados à mobilidade, desigualdade socioespacial, segurança pública e serviços.",
+            "E) questões regionais nunca relacionam capital, periferia, economia urbana e segurança."
+          ],
+          "correta": "D",
+          "explicacao": "Fortaleza/RM pode aparecer ligada a urbanização, desigualdade, mobilidade, turismo, economia e segurança.",
+          "discursiva": false
+        },
+        {
+          "id": "3828390980044428750",
+          "origem": "ceara",
+          "nivel": "caveira",
+          "materia": "Segurança Pública no Ceará",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo políticas públicas, prevenção e sistema penitenciário, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) segurança pública estadual se limita ao policiamento ostensivo e não dialoga com sistema prisional.",
+            "B) direitos humanos impedem atuação firme do Estado em segurança pública.",
+            "C) prevenção, inteligência e investigação não possuem relação com políticas públicas de segurança.",
+            "D) o sistema penitenciário é tema isolado, sem impacto sobre segurança pública estadual.",
+            "E) a segurança pública no Ceará pode ser analisada pela integração entre prevenção, investigação, policiamento, sistema penitenciário e políticas sociais."
+          ],
+          "correta": "E",
+          "explicacao": "Segurança pública envolve integração institucional, prevenção, investigação, sistema prisional e direitos.",
+          "discursiva": false
+        },
+        {
+          "id": "3835795504311090829",
+          "origem": "geral",
+          "nivel": "caveira",
+          "materia": "Direito Penal",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo dolo, culpa e responsabilização penal, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) o dolo eventual exige que o agente assuma o risco de produzir o resultado, não bastando a simples previsão abstrata do perigo.",
+            "B) todo resultado lesivo no ambiente prisional gera automaticamente responsabilidade penal objetiva do servidor.",
+            "C) a negligência sempre afasta a tipicidade penal quando praticada no exercício de função pública.",
+            "D) o dolo eventual se confunde com culpa consciente, pois em ambos o agente aceita o resultado como consequência necessária.",
+            "E) a culpa consciente exige vontade direta de produzir o resultado, ainda que por meio de conduta omissiva."
+          ],
+          "correta": "A",
+          "explicacao": "Dolo eventual exige assunção do risco. Culpa consciente envolve previsão do resultado, mas confiança de que ele não ocorrerá.",
+          "discursiva": false
+        },
+        {
+          "id": "3359164649400414114",
+          "origem": "geral",
+          "nivel": "caveira",
+          "materia": "Português e Interpretação",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo interpretação textual em prova policial, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a alternativa correta deve respeitar o comando da questão e decorrer de informação explícita ou inferência autorizada pelo texto.",
+            "B) inferência textual autoriza conclusão contrária ao ponto de vista sustentado no texto-base.",
+            "C) a alternativa mais extensa deve prevalecer quando houver dúvida entre duas respostas parecidas.",
+            "D) o candidato deve ignorar expressões como 'exceto' e 'incorreta', pois não alteram o raciocínio.",
+            "E) elementos de coesão não influenciam a compreensão global do texto em provas objetivas."
+          ],
+          "correta": "A",
+          "explicacao": "Interpretação exige atenção ao texto, ao comando e às inferências realmente autorizadas.",
+          "discursiva": false
+        },
+        {
+          "id": "6430121216990718716",
+          "origem": "ceara",
+          "nivel": "caveira",
+          "materia": "História do Ceará",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo formação histórica, interiorização e desigualdades regionais, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) Fortaleza sempre concentrou toda a dinâmica histórica do estado, sem relevância do sertão.",
+            "B) a história do Ceará pode ser explicada exclusivamente pela mineração aurífera colonial.",
+            "C) a formação histórica cearense deve ser compreendida considerando interiorização, pecuária, secas, migrações e organização social do território.",
+            "D) as secas não influenciaram migrações, políticas públicas ou organização econômica do Ceará.",
+            "E) a interiorização cearense ocorreu sem relação com atividades econômicas e conflitos territoriais."
+          ],
+          "correta": "C",
+          "explicacao": "História do Ceará envolve sertão, pecuária, secas, migrações, desigualdade territorial e formação política.",
+          "discursiva": false
+        },
+        {
+          "id": "3281818764446954608",
+          "origem": "apostila",
+          "nivel": "caveira",
+          "materia": "Legislação Específica PPCE",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo Constituição Estadual, legislação estadual e estrutura penitenciária, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a legislação específica deve ser estudada de forma integrada com Constituição Estadual, organização penitenciária, dever funcional e direitos fundamentais.",
+            "B) normas administrativas podem contrariar livremente a Constituição quando tratam de segurança penitenciária.",
+            "C) portarias, leis e Constituição possuem a mesma hierarquia normativa.",
+            "D) a legislação específica deve ser decorada apenas pelo número das leis, sem análise do conteúdo.",
+            "E) a função policial penal é incompatível com direitos humanos e controle institucional."
+          ],
+          "correta": "A",
+          "explicacao": "Legislação específica exige hierarquia normativa, leitura da lei, finalidade institucional e limites constitucionais.",
+          "discursiva": false
+        },
+        {
+          "id": "1366938902937744683",
+          "origem": "geral",
+          "nivel": "caveira",
+          "materia": "Direitos Humanos",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo dignidade humana no cárcere, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a pessoa privada de liberdade mantém direitos fundamentais compatíveis com a execução da pena, inclusive integridade física e moral.",
+            "B) a proteção da dignidade humana impede qualquer tipo de sanção disciplinar.",
+            "C) a condenação criminal elimina a titularidade de direitos fundamentais enquanto durar a pena.",
+            "D) direitos humanos no cárcere são recomendações sem efeito jurídico em concursos policiais.",
+            "E) a disciplina prisional autoriza tratamento degradante se houver interesse da administração."
+          ],
+          "correta": "A",
+          "explicacao": "A prisão restringe a liberdade, mas não elimina dignidade, integridade física e moral nem demais direitos compatíveis.",
+          "discursiva": false
+        },
+        {
+          "id": "406540918845700970",
+          "origem": "geral",
+          "nivel": "caveira",
+          "materia": "Direitos Humanos",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo dignidade humana no cárcere, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a disciplina prisional autoriza tratamento degradante se houver interesse da administração.",
+            "B) a proteção da dignidade humana impede qualquer tipo de sanção disciplinar.",
+            "C) a pessoa privada de liberdade mantém direitos fundamentais compatíveis com a execução da pena, inclusive integridade física e moral.",
+            "D) a condenação criminal elimina a titularidade de direitos fundamentais enquanto durar a pena.",
+            "E) direitos humanos no cárcere são recomendações sem efeito jurídico em concursos policiais."
+          ],
+          "correta": "C",
+          "explicacao": "A prisão restringe a liberdade, mas não elimina dignidade, integridade física e moral nem demais direitos compatíveis.",
+          "discursiva": false
+        },
+        {
+          "id": "2635366740779238613",
+          "origem": "ceara",
+          "nivel": "caveira",
+          "materia": "Geografia do Ceará",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo semiárido, recursos hídricos e dinâmica territorial, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a gestão de recursos hídricos é irrelevante porque o estado apresenta chuvas regulares durante todo o ano.",
+            "B) a geografia cearense exige atenção ao semiárido, irregularidade de chuvas, gestão hídrica, urbanização e contrastes regionais.",
+            "C) a geografia do Ceará deve ser estudada sem considerar economia, população ou urbanização.",
+            "D) a Caatinga não possui relação com o semiárido nordestino.",
+            "E) o Ceará possui clima predominantemente polar nas áreas interioranas."
+          ],
+          "correta": "B",
+          "explicacao": "Geografia cearense envolve semiárido, Caatinga, água, urbanização, litoral, sertão e desigualdades regionais.",
+          "discursiva": false
+        },
+        {
+          "id": "2635366740779238613",
+          "origem": "ceara",
+          "nivel": "caveira",
+          "materia": "Geografia do Ceará",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo semiárido, recursos hídricos e dinâmica territorial, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) o Ceará possui clima predominantemente polar nas áreas interioranas.",
+            "B) a geografia cearense exige atenção ao semiárido, irregularidade de chuvas, gestão hídrica, urbanização e contrastes regionais.",
+            "C) a Caatinga não possui relação com o semiárido nordestino.",
+            "D) a gestão de recursos hídricos é irrelevante porque o estado apresenta chuvas regulares durante todo o ano.",
+            "E) a geografia do Ceará deve ser estudada sem considerar economia, população ou urbanização."
+          ],
+          "correta": "B",
+          "explicacao": "Geografia cearense envolve semiárido, Caatinga, água, urbanização, litoral, sertão e desigualdades regionais.",
+          "discursiva": false
+        },
+        {
+          "id": "4232246478410783001",
+          "origem": "ceara",
+          "nivel": "caveira",
+          "materia": "Geografia do Ceará",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo semiárido, recursos hídricos e dinâmica territorial, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a geografia do Ceará deve ser estudada sem considerar economia, população ou urbanização.",
+            "B) a Caatinga não possui relação com o semiárido nordestino.",
+            "C) a gestão de recursos hídricos é irrelevante porque o estado apresenta chuvas regulares durante todo o ano.",
+            "D) o Ceará possui clima predominantemente polar nas áreas interioranas.",
+            "E) a geografia cearense exige atenção ao semiárido, irregularidade de chuvas, gestão hídrica, urbanização e contrastes regionais."
+          ],
+          "correta": "E",
+          "explicacao": "Geografia cearense envolve semiárido, Caatinga, água, urbanização, litoral, sertão e desigualdades regionais.",
+          "discursiva": false
+        },
+        {
+          "id": "3281818764446954608",
+          "origem": "apostila",
+          "nivel": "caveira",
+          "materia": "Legislação Específica PPCE",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo Constituição Estadual, legislação estadual e estrutura penitenciária, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a legislação específica deve ser estudada de forma integrada com Constituição Estadual, organização penitenciária, dever funcional e direitos fundamentais.",
+            "B) portarias, leis e Constituição possuem a mesma hierarquia normativa.",
+            "C) normas administrativas podem contrariar livremente a Constituição quando tratam de segurança penitenciária.",
+            "D) a legislação específica deve ser decorada apenas pelo número das leis, sem análise do conteúdo.",
+            "E) a função policial penal é incompatível com direitos humanos e controle institucional."
+          ],
+          "correta": "A",
+          "explicacao": "Legislação específica exige hierarquia normativa, leitura da lei, finalidade institucional e limites constitucionais.",
+          "discursiva": false
+        },
+        {
+          "id": "6550545821663645146",
+          "origem": "geral",
+          "nivel": "caveira",
+          "materia": "Processo Penal",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo cadeia de custódia e preservação de prova, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a cadeia de custódia é dispensável sempre que houver confissão informal do investigado.",
+            "B) a cadeia de custódia busca preservar a autenticidade, integridade e rastreabilidade dos vestígios desde o reconhecimento até o descarte.",
+            "C) a quebra da cadeia de custódia sempre gera absolvição automática, independentemente da análise do caso concreto.",
+            "D) a cadeia de custódia se aplica somente a crimes patrimoniais sem violência.",
+            "E) vestígios em ambiente prisional podem ser manipulados sem registro quando houver urgência administrativa."
+          ],
+          "correta": "B",
+          "explicacao": "A cadeia de custódia protege a confiabilidade da prova. Irregularidades devem ser analisadas conforme impacto concreto.",
+          "discursiva": false
+        },
+        {
+          "id": "6975742251145872551",
+          "origem": "policial",
+          "nivel": "caveira",
+          "materia": "Polícia Penal + Civil",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo atuação integrada e investigação, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a investigação criminal e a segurança penitenciária possuem natureza idêntica e atribuições indistintas.",
+            "B) direitos fundamentais são incompatíveis com atividades de segurança pública.",
+            "C) a atuação policial deve conciliar eficiência, legalidade, preservação da prova, respeito aos direitos fundamentais e finalidade pública.",
+            "D) a eficiência policial autoriza desprezar formalidades legais sempre que houver suspeita fundada.",
+            "E) o registro formal de ocorrência é dispensável quando o servidor possui convicção pessoal sobre os fatos."
+          ],
+          "correta": "C",
+          "explicacao": "Atuação policial exige legalidade, técnica, registro, respeito a direitos e proteção social.",
+          "discursiva": false
+        },
+        {
+          "id": "2947074443655155354",
+          "origem": "geral",
+          "nivel": "caveira",
+          "materia": "Processo Penal",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo cadeia de custódia e preservação de prova, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a quebra da cadeia de custódia sempre gera absolvição automática, independentemente da análise do caso concreto.",
+            "B) a cadeia de custódia se aplica somente a crimes patrimoniais sem violência.",
+            "C) a cadeia de custódia é dispensável sempre que houver confissão informal do investigado.",
+            "D) vestígios em ambiente prisional podem ser manipulados sem registro quando houver urgência administrativa.",
+            "E) a cadeia de custódia busca preservar a autenticidade, integridade e rastreabilidade dos vestígios desde o reconhecimento até o descarte."
+          ],
+          "correta": "E",
+          "explicacao": "A cadeia de custódia protege a confiabilidade da prova. Irregularidades devem ser analisadas conforme impacto concreto.",
+          "discursiva": false
+        },
+        {
+          "id": "3016247443604946385",
+          "origem": "apostila",
+          "nivel": "caveira",
+          "materia": "Legislação Específica PPCE",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo Constituição Estadual, legislação estadual e estrutura penitenciária, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) portarias, leis e Constituição possuem a mesma hierarquia normativa.",
+            "B) normas administrativas podem contrariar livremente a Constituição quando tratam de segurança penitenciária.",
+            "C) a legislação específica deve ser decorada apenas pelo número das leis, sem análise do conteúdo.",
+            "D) a função policial penal é incompatível com direitos humanos e controle institucional.",
+            "E) a legislação específica deve ser estudada de forma integrada com Constituição Estadual, organização penitenciária, dever funcional e direitos fundamentais."
+          ],
+          "correta": "E",
+          "explicacao": "Legislação específica exige hierarquia normativa, leitura da lei, finalidade institucional e limites constitucionais.",
+          "discursiva": false
+        },
+        {
+          "id": "6550545821663645146",
+          "origem": "geral",
+          "nivel": "caveira",
+          "materia": "Processo Penal",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo cadeia de custódia e preservação de prova, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) vestígios em ambiente prisional podem ser manipulados sem registro quando houver urgência administrativa.",
+            "B) a cadeia de custódia busca preservar a autenticidade, integridade e rastreabilidade dos vestígios desde o reconhecimento até o descarte.",
+            "C) a cadeia de custódia se aplica somente a crimes patrimoniais sem violência.",
+            "D) a cadeia de custódia é dispensável sempre que houver confissão informal do investigado.",
+            "E) a quebra da cadeia de custódia sempre gera absolvição automática, independentemente da análise do caso concreto."
+          ],
+          "correta": "B",
+          "explicacao": "A cadeia de custódia protege a confiabilidade da prova. Irregularidades devem ser analisadas conforme impacto concreto.",
+          "discursiva": false
+        },
+        {
+          "id": "3280774843690869035",
+          "origem": "apostila",
+          "nivel": "caveira",
+          "materia": "Legislação Específica PPCE",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo Constituição Estadual, legislação estadual e estrutura penitenciária, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) portarias, leis e Constituição possuem a mesma hierarquia normativa.",
+            "B) a função policial penal é incompatível com direitos humanos e controle institucional.",
+            "C) normas administrativas podem contrariar livremente a Constituição quando tratam de segurança penitenciária.",
+            "D) a legislação específica deve ser estudada de forma integrada com Constituição Estadual, organização penitenciária, dever funcional e direitos fundamentais.",
+            "E) a legislação específica deve ser decorada apenas pelo número das leis, sem análise do conteúdo."
+          ],
+          "correta": "D",
+          "explicacao": "Legislação específica exige hierarquia normativa, leitura da lei, finalidade institucional e limites constitucionais.",
+          "discursiva": false
+        },
+        {
+          "id": "7176213794190508524",
+          "origem": "geral",
+          "nivel": "caveira",
+          "materia": "Direitos Humanos",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo dignidade humana no cárcere, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a condenação criminal elimina a titularidade de direitos fundamentais enquanto durar a pena.",
+            "B) a proteção da dignidade humana impede qualquer tipo de sanção disciplinar.",
+            "C) a disciplina prisional autoriza tratamento degradante se houver interesse da administração.",
+            "D) a pessoa privada de liberdade mantém direitos fundamentais compatíveis com a execução da pena, inclusive integridade física e moral.",
+            "E) direitos humanos no cárcere são recomendações sem efeito jurídico em concursos policiais."
+          ],
+          "correta": "D",
+          "explicacao": "A prisão restringe a liberdade, mas não elimina dignidade, integridade física e moral nem demais direitos compatíveis.",
+          "discursiva": false
+        },
+        {
+          "id": "8602257060179357899",
+          "origem": "geral",
+          "nivel": "caveira",
+          "materia": "Raciocínio Lógico",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo interpretação lógica de enunciados normativos, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) em questões lógicas, expressões como 'todo', 'algum', 'nenhum' e 'somente se' alteram completamente a validade da conclusão.",
+            "B) a palavra 'todo' equivale sempre a 'algum', desde que o assunto seja jurídico.",
+            "C) a conclusão lógica independe das premissas quando o tema envolve segurança pública.",
+            "D) condicionais não aparecem em questões de concursos policiais.",
+            "E) negações compostas podem ser resolvidas apenas pela intuição do candidato."
+          ],
+          "correta": "A",
+          "explicacao": "Raciocínio lógico exige atenção a quantificadores, negações, condicionais e validade das conclusões.",
+          "discursiva": false
+        },
+        {
+          "id": "533505707746805062",
+          "origem": "geral",
+          "nivel": "caveira",
+          "materia": "Português e Interpretação",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo interpretação textual em prova policial, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) elementos de coesão não influenciam a compreensão global do texto em provas objetivas.",
+            "B) inferência textual autoriza conclusão contrária ao ponto de vista sustentado no texto-base.",
+            "C) o candidato deve ignorar expressões como 'exceto' e 'incorreta', pois não alteram o raciocínio.",
+            "D) a alternativa mais extensa deve prevalecer quando houver dúvida entre duas respostas parecidas.",
+            "E) a alternativa correta deve respeitar o comando da questão e decorrer de informação explícita ou inferência autorizada pelo texto."
+          ],
+          "correta": "E",
+          "explicacao": "Interpretação exige atenção ao texto, ao comando e às inferências realmente autorizadas.",
+          "discursiva": false
+        },
+        {
+          "id": "5286350007470523083",
+          "origem": "geral",
+          "nivel": "caveira",
+          "materia": "Direito Penal",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo dolo, culpa e responsabilização penal, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a negligência sempre afasta a tipicidade penal quando praticada no exercício de função pública.",
+            "B) todo resultado lesivo no ambiente prisional gera automaticamente responsabilidade penal objetiva do servidor.",
+            "C) o dolo eventual exige que o agente assuma o risco de produzir o resultado, não bastando a simples previsão abstrata do perigo.",
+            "D) a culpa consciente exige vontade direta de produzir o resultado, ainda que por meio de conduta omissiva.",
+            "E) o dolo eventual se confunde com culpa consciente, pois em ambos o agente aceita o resultado como consequência necessária."
+          ],
+          "correta": "C",
+          "explicacao": "Dolo eventual exige assunção do risco. Culpa consciente envolve previsão do resultado, mas confiança de que ele não ocorrerá.",
+          "discursiva": false
+        },
+        {
+          "id": "6550545821663645146",
+          "origem": "geral",
+          "nivel": "caveira",
+          "materia": "Processo Penal",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo cadeia de custódia e preservação de prova, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a cadeia de custódia é dispensável sempre que houver confissão informal do investigado.",
+            "B) a cadeia de custódia busca preservar a autenticidade, integridade e rastreabilidade dos vestígios desde o reconhecimento até o descarte.",
+            "C) a cadeia de custódia se aplica somente a crimes patrimoniais sem violência.",
+            "D) vestígios em ambiente prisional podem ser manipulados sem registro quando houver urgência administrativa.",
+            "E) a quebra da cadeia de custódia sempre gera absolvição automática, independentemente da análise do caso concreto."
+          ],
+          "correta": "B",
+          "explicacao": "A cadeia de custódia protege a confiabilidade da prova. Irregularidades devem ser analisadas conforme impacto concreto.",
+          "discursiva": false
+        },
+        {
+          "id": "2459865603841462414",
+          "origem": "ceara",
+          "nivel": "caveira",
+          "materia": "SAP/CE e Sistema Penitenciário",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo estrutura penitenciária, função da Polícia Penal e gestão prisional, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a disciplina prisional autoriza medidas sem registro, controle ou proporcionalidade.",
+            "B) a atuação da Polícia Penal no Ceará relaciona-se à segurança dos estabelecimentos penais, preservação da ordem, disciplina e respeito à legalidade.",
+            "C) o sistema penitenciário estadual não se conecta com execução penal, direitos humanos ou segurança pública.",
+            "D) a Polícia Penal atua apenas como força administrativa sem relação com segurança dos estabelecimentos penais.",
+            "E) a função policial penal dispensa análise de dever funcional e responsabilidade institucional."
+          ],
+          "correta": "B",
+          "explicacao": "Polícia Penal envolve segurança prisional, disciplina, legalidade, dever funcional e proteção institucional.",
+          "discursiva": false
+        },
+        {
+          "id": "904413906321158359",
+          "origem": "ceara",
+          "nivel": "caveira",
+          "materia": "Segurança Pública no Ceará",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo políticas públicas, prevenção e sistema penitenciário, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) prevenção, inteligência e investigação não possuem relação com políticas públicas de segurança.",
+            "B) direitos humanos impedem atuação firme do Estado em segurança pública.",
+            "C) segurança pública estadual se limita ao policiamento ostensivo e não dialoga com sistema prisional.",
+            "D) a segurança pública no Ceará pode ser analisada pela integração entre prevenção, investigação, policiamento, sistema penitenciário e políticas sociais.",
+            "E) o sistema penitenciário é tema isolado, sem impacto sobre segurança pública estadual."
+          ],
+          "correta": "D",
+          "explicacao": "Segurança pública envolve integração institucional, prevenção, investigação, sistema prisional e direitos.",
+          "discursiva": false
+        },
+        {
+          "id": "4232246478410783001",
+          "origem": "ceara",
+          "nivel": "caveira",
+          "materia": "Geografia do Ceará",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo semiárido, recursos hídricos e dinâmica territorial, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a Caatinga não possui relação com o semiárido nordestino.",
+            "B) a gestão de recursos hídricos é irrelevante porque o estado apresenta chuvas regulares durante todo o ano.",
+            "C) a geografia do Ceará deve ser estudada sem considerar economia, população ou urbanização.",
+            "D) o Ceará possui clima predominantemente polar nas áreas interioranas.",
+            "E) a geografia cearense exige atenção ao semiárido, irregularidade de chuvas, gestão hídrica, urbanização e contrastes regionais."
+          ],
+          "correta": "E",
+          "explicacao": "Geografia cearense envolve semiárido, Caatinga, água, urbanização, litoral, sertão e desigualdades regionais.",
+          "discursiva": false
+        },
+        {
+          "id": "4667202985335319315",
+          "origem": "policial",
+          "nivel": "caveira",
+          "materia": "Polícia Penal + Civil",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo atuação integrada e investigação, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a investigação criminal e a segurança penitenciária possuem natureza idêntica e atribuições indistintas.",
+            "B) a atuação policial deve conciliar eficiência, legalidade, preservação da prova, respeito aos direitos fundamentais e finalidade pública.",
+            "C) o registro formal de ocorrência é dispensável quando o servidor possui convicção pessoal sobre os fatos.",
+            "D) a eficiência policial autoriza desprezar formalidades legais sempre que houver suspeita fundada.",
+            "E) direitos fundamentais são incompatíveis com atividades de segurança pública."
+          ],
+          "correta": "B",
+          "explicacao": "Atuação policial exige legalidade, técnica, registro, respeito a direitos e proteção social.",
+          "discursiva": false
+        },
+        {
+          "id": "2183145091026305177",
+          "origem": "geral",
+          "nivel": "caveira",
+          "materia": "LEP e Execução Penal",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo finalidade da execução penal, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a integração social prevista na LEP impede a aplicação de sanções disciplinares.",
+            "B) a LEP não se aplica a direitos e deveres da pessoa presa, tratando apenas de cálculo de pena.",
+            "C) a execução penal tem por finalidade efetivar as disposições da sentença e proporcionar condições para integração social do condenado e do internado.",
+            "D) a execução penal tem finalidade exclusivamente retributiva, afastando qualquer preocupação social.",
+            "E) o cumprimento da pena depende apenas de ato administrativo, sem controle jurisdicional."
+          ],
+          "correta": "C",
+          "explicacao": "A LEP une efetivação da sentença e finalidade ressocializadora, sem eliminar disciplina e controle judicial.",
+          "discursiva": false
+        },
+        {
+          "id": "7884903122964820796",
+          "origem": "geral",
+          "nivel": "caveira",
+          "materia": "LEP e Execução Penal",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo finalidade da execução penal, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) o cumprimento da pena depende apenas de ato administrativo, sem controle jurisdicional.",
+            "B) a execução penal tem finalidade exclusivamente retributiva, afastando qualquer preocupação social.",
+            "C) a LEP não se aplica a direitos e deveres da pessoa presa, tratando apenas de cálculo de pena.",
+            "D) a integração social prevista na LEP impede a aplicação de sanções disciplinares.",
+            "E) a execução penal tem por finalidade efetivar as disposições da sentença e proporcionar condições para integração social do condenado e do internado."
+          ],
+          "correta": "E",
+          "explicacao": "A LEP une efetivação da sentença e finalidade ressocializadora, sem eliminar disciplina e controle judicial.",
+          "discursiva": false
+        },
+        {
+          "id": "6463745464225164384",
+          "origem": "geral",
+          "nivel": "caveira",
+          "materia": "Direito Penal",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo dolo, culpa e responsabilização penal, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a negligência sempre afasta a tipicidade penal quando praticada no exercício de função pública.",
+            "B) o dolo eventual exige que o agente assuma o risco de produzir o resultado, não bastando a simples previsão abstrata do perigo.",
+            "C) a culpa consciente exige vontade direta de produzir o resultado, ainda que por meio de conduta omissiva.",
+            "D) o dolo eventual se confunde com culpa consciente, pois em ambos o agente aceita o resultado como consequência necessária.",
+            "E) todo resultado lesivo no ambiente prisional gera automaticamente responsabilidade penal objetiva do servidor."
+          ],
+          "correta": "B",
+          "explicacao": "Dolo eventual exige assunção do risco. Culpa consciente envolve previsão do resultado, mas confiança de que ele não ocorrerá.",
+          "discursiva": false
+        },
+        {
+          "id": "2658831912614602150",
+          "origem": "idecan",
+          "nivel": "caveira",
+          "materia": "IDECAN - Estilo de Banca",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo literalidade, exceções e alternativas parcialmente corretas, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a presença da palavra 'sempre' torna a alternativa automaticamente correta em matéria jurídica.",
+            "B) a IDECAN cobra somente memorização de números de artigos, sem interpretar situações concretas.",
+            "C) a banca pode combinar literalidade legal com interpretação institucional, exigindo atenção ao comando 'correta', 'incorreta' e 'exceto'.",
+            "D) as alternativas parcialmente corretas devem ser marcadas quando trouxerem expressão técnica verdadeira.",
+            "E) questões de legislação específica não podem misturar Constituição, lei estadual e direitos humanos."
+          ],
+          "correta": "C",
+          "explicacao": "Bancas usam alternativas parcialmente corretas. O candidato deve observar restrições, exceções e comando exato.",
+          "discursiva": false
+        },
+        {
+          "id": "1377489234415523242",
+          "origem": "policial",
+          "nivel": "caveira",
+          "materia": "Polícia Penal + Civil",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo atuação integrada e investigação, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a investigação criminal e a segurança penitenciária possuem natureza idêntica e atribuições indistintas.",
+            "B) o registro formal de ocorrência é dispensável quando o servidor possui convicção pessoal sobre os fatos.",
+            "C) a eficiência policial autoriza desprezar formalidades legais sempre que houver suspeita fundada.",
+            "D) direitos fundamentais são incompatíveis com atividades de segurança pública.",
+            "E) a atuação policial deve conciliar eficiência, legalidade, preservação da prova, respeito aos direitos fundamentais e finalidade pública."
+          ],
+          "correta": "E",
+          "explicacao": "Atuação policial exige legalidade, técnica, registro, respeito a direitos e proteção social.",
+          "discursiva": false
+        },
+        {
+          "id": "1377489234415523242",
+          "origem": "policial",
+          "nivel": "caveira",
+          "materia": "Polícia Penal + Civil",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo atuação integrada e investigação, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a eficiência policial autoriza desprezar formalidades legais sempre que houver suspeita fundada.",
+            "B) a investigação criminal e a segurança penitenciária possuem natureza idêntica e atribuições indistintas.",
+            "C) direitos fundamentais são incompatíveis com atividades de segurança pública.",
+            "D) o registro formal de ocorrência é dispensável quando o servidor possui convicção pessoal sobre os fatos.",
+            "E) a atuação policial deve conciliar eficiência, legalidade, preservação da prova, respeito aos direitos fundamentais e finalidade pública."
+          ],
+          "correta": "E",
+          "explicacao": "Atuação policial exige legalidade, técnica, registro, respeito a direitos e proteção social.",
+          "discursiva": false
+        },
+        {
+          "id": "5295028583532697151",
+          "origem": "geral",
+          "nivel": "caveira",
+          "materia": "LEP e Execução Penal",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo finalidade da execução penal, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a execução penal tem por finalidade efetivar as disposições da sentença e proporcionar condições para integração social do condenado e do internado.",
+            "B) o cumprimento da pena depende apenas de ato administrativo, sem controle jurisdicional.",
+            "C) a integração social prevista na LEP impede a aplicação de sanções disciplinares.",
+            "D) a execução penal tem finalidade exclusivamente retributiva, afastando qualquer preocupação social.",
+            "E) a LEP não se aplica a direitos e deveres da pessoa presa, tratando apenas de cálculo de pena."
+          ],
+          "correta": "A",
+          "explicacao": "A LEP une efetivação da sentença e finalidade ressocializadora, sem eliminar disciplina e controle judicial.",
+          "discursiva": false
+        },
+        {
+          "id": "758793331064711243",
+          "origem": "ceara",
+          "nivel": "caveira",
+          "materia": "Segurança Pública no Ceará",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo políticas públicas, prevenção e sistema penitenciário, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) segurança pública estadual se limita ao policiamento ostensivo e não dialoga com sistema prisional.",
+            "B) o sistema penitenciário é tema isolado, sem impacto sobre segurança pública estadual.",
+            "C) a segurança pública no Ceará pode ser analisada pela integração entre prevenção, investigação, policiamento, sistema penitenciário e políticas sociais.",
+            "D) direitos humanos impedem atuação firme do Estado em segurança pública.",
+            "E) prevenção, inteligência e investigação não possuem relação com políticas públicas de segurança."
+          ],
+          "correta": "C",
+          "explicacao": "Segurança pública envolve integração institucional, prevenção, investigação, sistema prisional e direitos.",
+          "discursiva": false
+        },
+        {
+          "id": "1126180022797379023",
+          "origem": "geral",
+          "nivel": "caveira",
+          "materia": "Direito Penal",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo dolo, culpa e responsabilização penal, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a culpa consciente exige vontade direta de produzir o resultado, ainda que por meio de conduta omissiva.",
+            "B) a negligência sempre afasta a tipicidade penal quando praticada no exercício de função pública.",
+            "C) todo resultado lesivo no ambiente prisional gera automaticamente responsabilidade penal objetiva do servidor.",
+            "D) o dolo eventual se confunde com culpa consciente, pois em ambos o agente aceita o resultado como consequência necessária.",
+            "E) o dolo eventual exige que o agente assuma o risco de produzir o resultado, não bastando a simples previsão abstrata do perigo."
+          ],
+          "correta": "E",
+          "explicacao": "Dolo eventual exige assunção do risco. Culpa consciente envolve previsão do resultado, mas confiança de que ele não ocorrerá.",
+          "discursiva": false
+        },
+        {
+          "id": "260902798490666762",
+          "origem": "ceara",
+          "nivel": "caveira",
+          "materia": "Fortaleza e Região Metropolitana",
+          "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo urbanização, desigualdade, mobilidade e segurança, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+          "alternativas": [
+            "A) a urbanização de Fortaleza eliminou desigualdades socioespaciais e problemas de infraestrutura.",
+            "B) questões regionais nunca relacionam capital, periferia, economia urbana e segurança.",
+            "C) Fortaleza e sua região metropolitana concentram desafios urbanos ligados à mobilidade, desigualdade socioespacial, segurança pública e serviços.",
+            "D) Fortaleza deve ser estudada apenas por seus aspectos turísticos, sem relação com políticas públicas.",
+            "E) a Região Metropolitana de Fortaleza não possui relevância para temas de segurança pública estadual."
+          ],
+          "correta": "C",
+          "explicacao": "Fortaleza/RM pode aparecer ligada a urbanização, desigualdade, mobilidade, turismo, economia e segurança.",
+          "discursiva": false
+        }
+      ],
+      "posicao": 0,
+      "atual": {
+        "id": "3359164649400414114",
+        "origem": "geral",
+        "nivel": "caveira",
+        "materia": "Português e Interpretação",
+        "pergunta": "📄 Situação hipotética\n\nConsidere cenário complexo envolvendo interpretação textual em prova policial, com tensão entre eficiência estatal, legalidade, direitos fundamentais, segurança pública, gestão institucional e responsabilidade funcional. A questão foi construída no padrão de banca, com alternativas próximas e pegadinhas de generalização. Assinale a conclusão juridicamente e institucionalmente mais adequada.",
+        "alternativas": [
+          "A) a alternativa correta deve respeitar o comando da questão e decorrer de informação explícita ou inferência autorizada pelo texto.",
+          "B) o candidato deve ignorar expressões como 'exceto' e 'incorreta', pois não alteram o raciocínio.",
+          "C) a alternativa mais extensa deve prevalecer quando houver dúvida entre duas respostas parecidas.",
+          "D) elementos de coesão não influenciam a compreensão global do texto em provas objetivas.",
+          "E) inferência textual autoriza conclusão contrária ao ponto de vista sustentado no texto-base."
+        ],
+        "correta": "A",
+        "explicacao": "Interpretação exige atenção ao texto, ao comando e às inferências realmente autorizadas.",
+        "discursiva": false
+      },
+      "modo": "🧠 Treino inteligente",
+      "acertos": 0,
+      "erros": 0,
+      "erradas": [],
+      "favoritas": [],
+      "por_materia": {},
+      "por_nivel": {},
+      "por_origem": {}
+    }
+  }
+}

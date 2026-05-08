@@ -1,0 +1,2429 @@
+{
+  "usuarios": {
+    "8672397104": {
+      "fila": [
+        {
+          "id": "65276721701794763",
+          "origem": "idecan",
+          "nivel": "extremo",
+          "materia": "Direito IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 3532\n\nA dignidade humana orienta:",
+          "alternativas": [
+            "A) a atuação estatal inclusive no cárcere.",
+            "B) apenas contratos privados.",
+            "C) somente comércio.",
+            "D) apenas relações familiares."
+          ],
+          "correta": "A",
+          "explicacao": "A dignidade humana é fundamento constitucional."
+        },
+        {
+          "id": "4772092574403566782",
+          "origem": "apostila",
+          "nivel": "pesado",
+          "materia": "📜 Lei nº 17.167/2020",
+          "assunto_id": "lei_17167",
+          "pergunta": "📕 Apostila nº 7569\n\nA legislação da Polícia Penal deve ser estudada junto com segurança pública e execução penal.",
+          "alternativas": [
+            "A) Certo.",
+            "B) Errado.",
+            "C) Só matemática.",
+            "D) Só português."
+          ],
+          "correta": "A",
+          "explicacao": "A atuação policial penal envolve normas constitucionais, administrativas e execução penal."
+        },
+        {
+          "id": "2410824571999666264",
+          "origem": "geral",
+          "nivel": "dificil",
+          "materia": "Direitos Humanos",
+          "assunto_id": null,
+          "pergunta": "Questão geral nº 1857\n\nA tortura é:",
+          "alternativas": [
+            "A) vedada.",
+            "B) permitida na investigação.",
+            "C) facultativa.",
+            "D) obrigatória."
+          ],
+          "correta": "A",
+          "explicacao": "A tortura é proibida e viola a dignidade humana."
+        },
+        {
+          "id": "2251157797011846934",
+          "origem": "apostila",
+          "nivel": "dificil",
+          "materia": "📜 Lei Estadual nº 14.582/2009",
+          "assunto_id": "lei_14582",
+          "pergunta": "📕 Apostila nº 5386\n\nNa legislação específica, só o número da lei importa.",
+          "alternativas": [
+            "A) Certo.",
+            "B) Errado.",
+            "C) Sempre.",
+            "D) Só na IDECAN."
+          ],
+          "correta": "B",
+          "explicacao": "É preciso estudar conteúdo, finalidade, competências e alterações."
+        },
+        {
+          "id": "5250486307097553050",
+          "origem": "idecan",
+          "nivel": "dificil",
+          "materia": "Penal/Processo IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 3880\n\nO contraditório assegura:",
+          "alternativas": [
+            "A) ciência e possibilidade de reação.",
+            "B) proibição de defesa.",
+            "C) sigilo contra a defesa.",
+            "D) escolha da pena pela vítima."
+          ],
+          "correta": "A",
+          "explicacao": "Contraditório é ciência e possibilidade de manifestação."
+        },
+        {
+          "id": "1323379814601327546",
+          "origem": "apostila",
+          "nivel": "dificil",
+          "materia": "🚨 Segurança pública e penitenciária",
+          "assunto_id": "seguranca",
+          "pergunta": "📕 Apostila nº 9554\n\nA Polícia Penal atua fora do Estado Democrático de Direito.",
+          "alternativas": [
+            "A) Certo.",
+            "B) Errado.",
+            "C) Em presídio sim.",
+            "D) Em crise sim."
+          ],
+          "correta": "B",
+          "explicacao": "A atuação deve observar Constituição, legalidade e direitos fundamentais."
+        },
+        {
+          "id": "2346209710745066817",
+          "origem": "idecan",
+          "nivel": "dificil",
+          "materia": "Direito IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 3378\n\nA dignidade humana orienta:",
+          "alternativas": [
+            "A) a atuação estatal inclusive no cárcere.",
+            "B) apenas contratos privados.",
+            "C) somente comércio.",
+            "D) apenas relações familiares."
+          ],
+          "correta": "A",
+          "explicacao": "A dignidade humana é fundamento constitucional."
+        },
+        {
+          "id": "3750523093617224677",
+          "origem": "apostila",
+          "nivel": "dificil",
+          "materia": "📋 Portarias da SAP/CE",
+          "assunto_id": "portarias",
+          "pergunta": "📕 Apostila nº 8766\n\nO objeto e o órgão emissor da portaria são irrelevantes.",
+          "alternativas": [
+            "A) Certo.",
+            "B) Errado.",
+            "C) Se for antiga.",
+            "D) Se for longa."
+          ],
+          "correta": "B",
+          "explicacao": "Órgão emissor, objeto e efeitos são importantes."
+        },
+        {
+          "id": "6702419420495530229",
+          "origem": "apostila",
+          "nivel": "dificil",
+          "materia": "🚨 Segurança pública e penitenciária",
+          "assunto_id": "seguranca",
+          "pergunta": "📕 Apostila nº 9541\n\nSegurança pública e penitenciária protegem ordem coletiva, incolumidade e tranquilidade social.",
+          "alternativas": [
+            "A) Certo.",
+            "B) Errado.",
+            "C) Apenas bens privados.",
+            "D) Apenas agentes."
+          ],
+          "correta": "A",
+          "explicacao": "A função estatal envolve proteção coletiva e paz social."
+        },
+        {
+          "id": "7434407980319793773",
+          "origem": "apostila",
+          "nivel": "dificil",
+          "materia": "📜 Lei nº 16.120/2016",
+          "assunto_id": "lei_16120",
+          "pergunta": "📕 Apostila nº 6632\n\nLei estadual não pode ser cobrada em concurso estadual.",
+          "alternativas": [
+            "A) Certo.",
+            "B) Errado.",
+            "C) Se for antiga.",
+            "D) Se for portaria."
+          ],
+          "correta": "B",
+          "explicacao": "Legislação estadual é comum em concursos estaduais."
+        },
+        {
+          "id": "7919446991308440646",
+          "origem": "apostila",
+          "nivel": "dificil",
+          "materia": "📋 Instrução Normativa nº 03/2020",
+          "assunto_id": "in_032020",
+          "pergunta": "📕 Apostila nº 8350\n\nIN pode cobrar finalidade, competência e procedimento.",
+          "alternativas": [
+            "A) Certo.",
+            "B) Errado.",
+            "C) Só número.",
+            "D) Só capa."
+          ],
+          "correta": "A",
+          "explicacao": "Esses pontos são recorrentes em legislação específica."
+        },
+        {
+          "id": "6938127785759392504",
+          "origem": "geral",
+          "nivel": "dificil",
+          "materia": "Direito Constitucional",
+          "assunto_id": null,
+          "pergunta": "Questão geral nº 716\n\nA segurança pública é:",
+          "alternativas": [
+            "A) dever do Estado, direito e responsabilidade de todos.",
+            "B) atividade privada.",
+            "C) tema sem previsão constitucional.",
+            "D) exclusiva do Judiciário."
+          ],
+          "correta": "A",
+          "explicacao": "A Constituição trata a segurança pública como dever estatal e responsabilidade de todos."
+        },
+        {
+          "id": "7267111642646016885",
+          "origem": "apostila",
+          "nivel": "dificil",
+          "materia": "📜 Lei nº 18.710/2024",
+          "assunto_id": "lei_18710",
+          "pergunta": "📕 Apostila nº 7860\n\nLei de 2024 deve ser ignorada em concurso estadual.",
+          "alternativas": [
+            "A) Certo.",
+            "B) Errado.",
+            "C) Se for IDECAN.",
+            "D) Sempre."
+          ],
+          "correta": "B",
+          "explicacao": "Normas recentes e estaduais podem ser muito importantes."
+        },
+        {
+          "id": "238355312536310838",
+          "origem": "apostila",
+          "nivel": "dificil",
+          "materia": "📜 Lei Complementar nº 258",
+          "assunto_id": "lc_258",
+          "pergunta": "📕 Apostila nº 5835\n\nLei complementar estadual pode tratar de organização administrativa quando exigida forma qualificada.",
+          "alternativas": [
+            "A) Certo.",
+            "B) Errado.",
+            "C) Só por circular.",
+            "D) Só por contrato."
+          ],
+          "correta": "A",
+          "explicacao": "Lei complementar possui rito próprio e pode tratar de organização conforme previsão."
+        },
+        {
+          "id": "3076987565752719219",
+          "origem": "idecan",
+          "nivel": "dificil",
+          "materia": "Português IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 2848\n\nInterpretação textual exige:",
+          "alternativas": [
+            "A) compreensão de sentidos explícitos e implícitos.",
+            "B) ignorar o comando.",
+            "C) escolher a maior alternativa.",
+            "D) decorar frases."
+          ],
+          "correta": "A",
+          "explicacao": "A banca costuma exigir leitura atenta ao comando."
+        },
+        {
+          "id": "4150144646454945800",
+          "origem": "apostila",
+          "nivel": "dificil",
+          "materia": "📋 Portarias da SAP/CE",
+          "assunto_id": "portarias",
+          "pergunta": "📕 Apostila nº 8693\n\nPortarias administrativas podem disciplinar rotinas e procedimentos.",
+          "alternativas": [
+            "A) Certo.",
+            "B) Errado.",
+            "C) Criam crime sempre.",
+            "D) Revogam a Constituição."
+          ],
+          "correta": "A",
+          "explicacao": "Portarias têm função administrativa."
+        },
+        {
+          "id": "4740351460306570527",
+          "origem": "idecan",
+          "nivel": "dificil",
+          "materia": "PPCE IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 4515\n\nNo ambiente prisional, a atuação deve priorizar:",
+          "alternativas": [
+            "A) legalidade, segurança e dignidade.",
+            "B) improviso.",
+            "C) exposição indevida.",
+            "D) ausência de registro."
+          ],
+          "correta": "A",
+          "explicacao": "A função policial penal exige técnica, legalidade e respeito à dignidade."
+        },
+        {
+          "id": "3189234057025132039",
+          "origem": "apostila",
+          "nivel": "dificil",
+          "materia": "🚨 Segurança pública e penitenciária",
+          "assunto_id": "seguranca",
+          "pergunta": "📕 Apostila nº 9618\n\nA Polícia Penal atua fora do Estado Democrático de Direito.",
+          "alternativas": [
+            "A) Certo.",
+            "B) Errado.",
+            "C) Em presídio sim.",
+            "D) Em crise sim."
+          ],
+          "correta": "B",
+          "explicacao": "A atuação deve observar Constituição, legalidade e direitos fundamentais."
+        },
+        {
+          "id": "4476217548990424378",
+          "origem": "idecan",
+          "nivel": "dificil",
+          "materia": "Direito IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 3335\n\nO princípio da legalidade exige:",
+          "alternativas": [
+            "A) atuação conforme a lei.",
+            "B) atuação sem norma.",
+            "C) preferência pessoal.",
+            "D) segredo absoluto."
+          ],
+          "correta": "A",
+          "explicacao": "Legalidade é princípio básico da Administração e do Estado de Direito."
+        },
+        {
+          "id": "9223189688747379697",
+          "origem": "apostila",
+          "nivel": "dificil",
+          "materia": "📜 Lei nº 16.063/2016",
+          "assunto_id": "lei_16063",
+          "pergunta": "📕 Apostila nº 6275\n\nNorma posterior pode alterar norma anterior, respeitada a hierarquia.",
+          "alternativas": [
+            "A) Certo.",
+            "B) Errado.",
+            "C) Nunca.",
+            "D) Só por portaria."
+          ],
+          "correta": "A",
+          "explicacao": "Leis posteriores podem alterar ou revogar normas anteriores."
+        },
+        {
+          "id": "5300533131982163779",
+          "origem": "geral",
+          "nivel": "dificil",
+          "materia": "Direitos Humanos",
+          "assunto_id": null,
+          "pergunta": "Questão geral nº 1826\n\nDireitos humanos protegem:",
+          "alternativas": [
+            "A) dignidade e liberdades fundamentais.",
+            "B) apenas bens materiais.",
+            "C) apenas empresas.",
+            "D) só servidores."
+          ],
+          "correta": "A",
+          "explicacao": "Direitos humanos protegem a dignidade e liberdades fundamentais."
+        },
+        {
+          "id": "6697363114056764030",
+          "origem": "apostila",
+          "nivel": "dificil",
+          "materia": "📜 Lei nº 17.167/2020",
+          "assunto_id": "lei_17167",
+          "pergunta": "📕 Apostila nº 7542\n\nO contexto institucional nunca é cobrado.",
+          "alternativas": [
+            "A) Certo.",
+            "B) Errado.",
+            "C) Sempre.",
+            "D) Só em simulados."
+          ],
+          "correta": "B",
+          "explicacao": "Finalidade e contexto da norma podem ser cobrados."
+        },
+        {
+          "id": "4304852528226017830",
+          "origem": "geral",
+          "nivel": "dificil",
+          "materia": "Processo Penal",
+          "assunto_id": null,
+          "pergunta": "Questão geral nº 1504\n\nA cadeia de custódia busca:",
+          "alternativas": [
+            "A) preservar vestígios e provas.",
+            "B) aumentar pena automaticamente.",
+            "C) encerrar o processo.",
+            "D) substituir a denúncia."
+          ],
+          "correta": "A",
+          "explicacao": "A cadeia de custódia preserva integridade e rastreabilidade dos vestígios."
+        },
+        {
+          "id": "5117455514175515743",
+          "origem": "apostila",
+          "nivel": "dificil",
+          "materia": "📜 Lei nº 18.710/2024",
+          "assunto_id": "lei_18710",
+          "pergunta": "📕 Apostila nº 7905\n\nLeis recentes merecem atenção especial em concursos próximos.",
+          "alternativas": [
+            "A) Certo.",
+            "B) Errado.",
+            "C) Só federais.",
+            "D) Só municipais."
+          ],
+          "correta": "A",
+          "explicacao": "Normas recentes podem refletir atualizações relevantes."
+        },
+        {
+          "id": "4478767174974035003",
+          "origem": "idecan",
+          "nivel": "dificil",
+          "materia": "PPCE IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 4449\n\nNo ambiente prisional, a atuação deve priorizar:",
+          "alternativas": [
+            "A) legalidade, segurança e dignidade.",
+            "B) improviso.",
+            "C) exposição indevida.",
+            "D) ausência de registro."
+          ],
+          "correta": "A",
+          "explicacao": "A função policial penal exige técnica, legalidade e respeito à dignidade."
+        },
+        {
+          "id": "90055515409191249",
+          "origem": "geral",
+          "nivel": "dificil",
+          "materia": "Execução Penal",
+          "assunto_id": null,
+          "pergunta": "Questão geral nº 2088\n\nA execução penal busca:",
+          "alternativas": [
+            "A) cumprir a sentença e favorecer integração social.",
+            "B) acabar com todos os direitos.",
+            "C) criar crime.",
+            "D) substituir a Constituição."
+          ],
+          "correta": "A",
+          "explicacao": "A execução penal efetiva a sentença e busca reintegração social."
+        },
+        {
+          "id": "1186212785771225101",
+          "origem": "apostila",
+          "nivel": "dificil",
+          "materia": "📋 Instrução Normativa nº 03/2020",
+          "assunto_id": "in_032020",
+          "pergunta": "📕 Apostila nº 8329\n\nInstruções normativas costumam detalhar procedimentos administrativos internos.",
+          "alternativas": [
+            "A) Certo.",
+            "B) Errado.",
+            "C) São sempre leis.",
+            "D) Nunca orientam conduta."
+          ],
+          "correta": "A",
+          "explicacao": "Instruções normativas regulamentam rotinas e procedimentos."
+        },
+        {
+          "id": "2463621359591672105",
+          "origem": "apostila",
+          "nivel": "dificil",
+          "materia": "📜 Lei nº 16.120/2016",
+          "assunto_id": "lei_16120",
+          "pergunta": "📕 Apostila nº 6593\n\nA leitura da lei seca é importante em legislação específica.",
+          "alternativas": [
+            "A) Certo.",
+            "B) Errado.",
+            "C) Só em português.",
+            "D) Só em informática."
+          ],
+          "correta": "A",
+          "explicacao": "Bancas podem cobrar literalidade e conceitos objetivos."
+        },
+        {
+          "id": "2379269302364122734",
+          "origem": "apostila",
+          "nivel": "dificil",
+          "materia": "📜 Lei nº 18.710/2024",
+          "assunto_id": "lei_18710",
+          "pergunta": "📕 Apostila nº 7870\n\nLei de 2024 deve ser ignorada em concurso estadual.",
+          "alternativas": [
+            "A) Certo.",
+            "B) Errado.",
+            "C) Se for IDECAN.",
+            "D) Sempre."
+          ],
+          "correta": "B",
+          "explicacao": "Normas recentes e estaduais podem ser muito importantes."
+        },
+        {
+          "id": "5316720880867283980",
+          "origem": "apostila",
+          "nivel": "dificil",
+          "materia": "📜 Lei nº 16.120/2016",
+          "assunto_id": "lei_16120",
+          "pergunta": "📕 Apostila nº 6689\n\nA leitura da lei seca é importante em legislação específica.",
+          "alternativas": [
+            "A) Certo.",
+            "B) Errado.",
+            "C) Só em português.",
+            "D) Só em informática."
+          ],
+          "correta": "A",
+          "explicacao": "Bancas podem cobrar literalidade e conceitos objetivos."
+        },
+        {
+          "id": "2105700381485464508",
+          "origem": "geral",
+          "nivel": "dificil",
+          "materia": "Direitos Humanos",
+          "assunto_id": null,
+          "pergunta": "Questão geral nº 1848\n\nDireitos humanos protegem:",
+          "alternativas": [
+            "A) dignidade e liberdades fundamentais.",
+            "B) apenas bens materiais.",
+            "C) apenas empresas.",
+            "D) só servidores."
+          ],
+          "correta": "A",
+          "explicacao": "Direitos humanos protegem a dignidade e liberdades fundamentais."
+        },
+        {
+          "id": "1733246232721915808",
+          "origem": "geral",
+          "nivel": "dificil",
+          "materia": "Direito Constitucional",
+          "assunto_id": null,
+          "pergunta": "Questão geral nº 725\n\nA dignidade da pessoa humana é:",
+          "alternativas": [
+            "A) fundamento da República.",
+            "B) decreto municipal.",
+            "C) norma privada.",
+            "D) costume informal."
+          ],
+          "correta": "A",
+          "explicacao": "A dignidade da pessoa humana é fundamento constitucional."
+        },
+        {
+          "id": "7399046372820072357",
+          "origem": "apostila",
+          "nivel": "dificil",
+          "materia": "🏛️ Controle disciplinar",
+          "assunto_id": "controle",
+          "pergunta": "📕 Apostila nº 9143\n\nControle disciplinar busca apurar responsabilidade funcional e aplicar sanções cabíveis.",
+          "alternativas": [
+            "A) Certo.",
+            "B) Errado.",
+            "C) Impedir defesa.",
+            "D) Criar crime."
+          ],
+          "correta": "A",
+          "explicacao": "Controle disciplinar exige apuração, legalidade e sanções cabíveis."
+        },
+        {
+          "id": "89858998396048431",
+          "origem": "idecan",
+          "nivel": "dificil",
+          "materia": "Direito IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 3385\n\nO princípio da legalidade exige:",
+          "alternativas": [
+            "A) atuação conforme a lei.",
+            "B) atuação sem norma.",
+            "C) preferência pessoal.",
+            "D) segredo absoluto."
+          ],
+          "correta": "A",
+          "explicacao": "Legalidade é princípio básico da Administração e do Estado de Direito."
+        },
+        {
+          "id": "2256850379087244265",
+          "origem": "geral",
+          "nivel": "dificil",
+          "materia": "Português",
+          "assunto_id": null,
+          "pergunta": "Questão geral nº 127\n\nA linguagem adequada em redação oficial deve ser:",
+          "alternativas": [
+            "A) clara, objetiva e formal.",
+            "B) sempre informal.",
+            "C) irônica.",
+            "D) sem pontuação."
+          ],
+          "correta": "A",
+          "explicacao": "Textos oficiais exigem clareza, formalidade e objetividade."
+        },
+        {
+          "id": "6479823065724910080",
+          "origem": "apostila",
+          "nivel": "dificil",
+          "materia": "📜 Lei nº 17.167/2020",
+          "assunto_id": "lei_17167",
+          "pergunta": "📕 Apostila nº 7522\n\nO contexto institucional nunca é cobrado.",
+          "alternativas": [
+            "A) Certo.",
+            "B) Errado.",
+            "C) Sempre.",
+            "D) Só em simulados."
+          ],
+          "correta": "B",
+          "explicacao": "Finalidade e contexto da norma podem ser cobrados."
+        },
+        {
+          "id": "3741847595694851954",
+          "origem": "apostila",
+          "nivel": "dificil",
+          "materia": "📜 Lei Estadual nº 14.582/2009",
+          "assunto_id": "lei_14582",
+          "pergunta": "📕 Apostila nº 5409\n\nLeis estaduais específicas podem disciplinar organização e carreira de órgãos penitenciários.",
+          "alternativas": [
+            "A) Certo.",
+            "B) Errado.",
+            "C) Apenas por contrato.",
+            "D) Apenas por costume."
+          ],
+          "correta": "A",
+          "explicacao": "Leis estaduais específicas podem organizar aspectos administrativos e funcionais."
+        },
+        {
+          "id": "131241875000850790",
+          "origem": "apostila",
+          "nivel": "dificil",
+          "materia": "📜 Lei Complementar nº 258",
+          "assunto_id": "lc_258",
+          "pergunta": "📕 Apostila nº 5793\n\nLei complementar estadual pode tratar de organização administrativa quando exigida forma qualificada.",
+          "alternativas": [
+            "A) Certo.",
+            "B) Errado.",
+            "C) Só por circular.",
+            "D) Só por contrato."
+          ],
+          "correta": "A",
+          "explicacao": "Lei complementar possui rito próprio e pode tratar de organização conforme previsão."
+        },
+        {
+          "id": "2531421657415578931",
+          "origem": "idecan",
+          "nivel": "dificil",
+          "materia": "Penal/Processo IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 3873\n\nDolo eventual ocorre quando o agente:",
+          "alternativas": [
+            "A) assume o risco do resultado.",
+            "B) age sempre sem consciência.",
+            "C) pratica fato atípico.",
+            "D) é inimputável automaticamente."
+          ],
+          "correta": "A",
+          "explicacao": "Dolo eventual envolve assunção do risco."
+        },
+        {
+          "id": "8386516979823247039",
+          "origem": "idecan",
+          "nivel": "dificil",
+          "materia": "Português IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 2805\n\nNo padrão formal, coesão textual contribui para:",
+          "alternativas": [
+            "A) compreensão do texto.",
+            "B) erro gramatical.",
+            "C) ambiguidade obrigatória.",
+            "D) informalidade."
+          ],
+          "correta": "A",
+          "explicacao": "A IDECAN cobra coesão, coerência e interpretação objetiva."
+        },
+        {
+          "id": "4984280138218114173",
+          "origem": "geral",
+          "nivel": "dificil",
+          "materia": "Execução Penal",
+          "assunto_id": null,
+          "pergunta": "Questão geral nº 2084\n\nA execução penal busca:",
+          "alternativas": [
+            "A) cumprir a sentença e favorecer integração social.",
+            "B) acabar com todos os direitos.",
+            "C) criar crime.",
+            "D) substituir a Constituição."
+          ],
+          "correta": "A",
+          "explicacao": "A execução penal efetiva a sentença e busca reintegração social."
+        },
+        {
+          "id": "1710142461165001954",
+          "origem": "apostila",
+          "nivel": "dificil",
+          "materia": "📜 Lei nº 16.063/2016",
+          "assunto_id": "lei_16063",
+          "pergunta": "📕 Apostila nº 6251\n\nNorma posterior pode alterar norma anterior, respeitada a hierarquia.",
+          "alternativas": [
+            "A) Certo.",
+            "B) Errado.",
+            "C) Nunca.",
+            "D) Só por portaria."
+          ],
+          "correta": "A",
+          "explicacao": "Leis posteriores podem alterar ou revogar normas anteriores."
+        },
+        {
+          "id": "8894200878797337868",
+          "origem": "apostila",
+          "nivel": "dificil",
+          "materia": "⚖️ Constituição do Estado do Ceará",
+          "assunto_id": "const_ce",
+          "pergunta": "📕 Apostila nº 4917\n\nA Polícia Penal integra o sistema de segurança pública, penitenciária e defesa civil do Ceará.",
+          "alternativas": [
+            "A) Certo.",
+            "B) Errado.",
+            "C) Só em decreto municipal.",
+            "D) Apenas em calamidade."
+          ],
+          "correta": "A",
+          "explicacao": "A Constituição Estadual inclui a Polícia Penal no sistema de segurança pública, penitenciária e defesa civil."
+        },
+        {
+          "id": "3589713416524494340",
+          "origem": "apostila",
+          "nivel": "dificil",
+          "materia": "📜 Lei Estadual nº 14.582/2009",
+          "assunto_id": "lei_14582",
+          "pergunta": "📕 Apostila nº 5448\n\nNa legislação específica, só o número da lei importa.",
+          "alternativas": [
+            "A) Certo.",
+            "B) Errado.",
+            "C) Sempre.",
+            "D) Só na IDECAN."
+          ],
+          "correta": "B",
+          "explicacao": "É preciso estudar conteúdo, finalidade, competências e alterações."
+        },
+        {
+          "id": "6242251535255470631",
+          "origem": "apostila",
+          "nivel": "dificil",
+          "materia": "📜 Lei nº 16.825/2019",
+          "assunto_id": "lei_16825",
+          "pergunta": "📕 Apostila nº 7031\n\nAo estudar leis estaduais, deve-se observar alterações e redações atualizadas.",
+          "alternativas": [
+            "A) Certo.",
+            "B) Errado.",
+            "C) Só o título basta.",
+            "D) Só o ano importa."
+          ],
+          "correta": "A",
+          "explicacao": "Alterações legislativas são ponto de atenção."
+        },
+        {
+          "id": "5338523249071501349",
+          "origem": "idecan",
+          "nivel": "dificil",
+          "materia": "Português IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 2811\n\nNo padrão formal, coesão textual contribui para:",
+          "alternativas": [
+            "A) compreensão do texto.",
+            "B) erro gramatical.",
+            "C) ambiguidade obrigatória.",
+            "D) informalidade."
+          ],
+          "correta": "A",
+          "explicacao": "A IDECAN cobra coesão, coerência e interpretação objetiva."
+        },
+        {
+          "id": "1122026525787488429",
+          "origem": "geral",
+          "nivel": "dificil",
+          "materia": "Execução Penal",
+          "assunto_id": null,
+          "pergunta": "Questão geral nº 2107\n\nA LEP trata principalmente:",
+          "alternativas": [
+            "A) do cumprimento de penas e medidas de segurança.",
+            "B) de eleições.",
+            "C) de tributos.",
+            "D) de contratos civis."
+          ],
+          "correta": "A",
+          "explicacao": "A LEP disciplina a execução penal."
+        },
+        {
+          "id": "6639224670228383104",
+          "origem": "apostila",
+          "nivel": "dificil",
+          "materia": "📜 Lei Complementar nº 258",
+          "assunto_id": "lc_258",
+          "pergunta": "📕 Apostila nº 5758\n\nLeis complementares devem ser ignoradas em legislação específica.",
+          "alternativas": [
+            "A) Certo.",
+            "B) Errado.",
+            "C) Apenas se antigas.",
+            "D) Apenas se longas."
+          ],
+          "correta": "B",
+          "explicacao": "Elas podem ser tema importante de prova."
+        },
+        {
+          "id": "8224370009247389561",
+          "origem": "geral",
+          "nivel": "dificil",
+          "materia": "Ceará/Fortaleza",
+          "assunto_id": null,
+          "pergunta": "Questão geral nº 2385\n\nGrande parte do Ceará possui clima:",
+          "alternativas": [
+            "A) semiárido.",
+            "B) polar.",
+            "C) temperado frio.",
+            "D) equatorial nevado."
+          ],
+          "correta": "A",
+          "explicacao": "O semiárido marca grande parte do território cearense."
+        },
+        {
+          "id": "9067543701863037981",
+          "origem": "apostila",
+          "nivel": "dificil",
+          "materia": "📜 Lei nº 16.120/2016",
+          "assunto_id": "lei_16120",
+          "pergunta": "📕 Apostila nº 6599\n\nA leitura da lei seca é importante em legislação específica.",
+          "alternativas": [
+            "A) Certo.",
+            "B) Errado.",
+            "C) Só em português.",
+            "D) Só em informática."
+          ],
+          "correta": "A",
+          "explicacao": "Bancas podem cobrar literalidade e conceitos objetivos."
+        }
+      ],
+      "posicao": 0,
+      "atual": {
+        "id": "65276721701794763",
+        "origem": "idecan",
+        "nivel": "extremo",
+        "materia": "Direito IDECAN",
+        "assunto_id": null,
+        "pergunta": "Questão estilo IDECAN nº 3532\n\nA dignidade humana orienta:",
+        "alternativas": [
+          "A) a atuação estatal inclusive no cárcere.",
+          "B) apenas contratos privados.",
+          "C) somente comércio.",
+          "D) apenas relações familiares."
+        ],
+        "correta": "A",
+        "explicacao": "A dignidade humana é fundamento constitucional."
+      },
+      "modo": "🧠 Treino inteligente",
+      "acertos": 15,
+      "erros": 2,
+      "erradas": [
+        "4772092574403566782",
+        "65276721701794763"
+      ],
+      "favoritas": [],
+      "por_materia": {
+        "Direito IDECAN": {
+          "acertos": 5,
+          "erros": 1
+        },
+        "Ceará/Fortaleza": {
+          "acertos": 1,
+          "erros": 0
+        },
+        "⚖️ Constituição do Estado do Ceará": {
+          "acertos": 1,
+          "erros": 0
+        },
+        "Direito Constitucional": {
+          "acertos": 1,
+          "erros": 0
+        },
+        "Processo Penal": {
+          "acertos": 1,
+          "erros": 0
+        },
+        "Português IDECAN": {
+          "acertos": 2,
+          "erros": 0
+        },
+        "📜 Lei nº 17.167/2020": {
+          "acertos": 0,
+          "erros": 1
+        },
+        "Penal/Processo IDECAN": {
+          "acertos": 3,
+          "erros": 0
+        },
+        "PPCE IDECAN": {
+          "acertos": 1,
+          "erros": 0
+        }
+      },
+      "por_nivel": {
+        "dificil": {
+          "acertos": 5,
+          "erros": 0
+        },
+        "extremo": {
+          "acertos": 10,
+          "erros": 1
+        },
+        "pesado": {
+          "acertos": 0,
+          "erros": 1
+        }
+      },
+      "por_origem": {
+        "idecan": {
+          "acertos": 11,
+          "erros": 1
+        },
+        "geral": {
+          "acertos": 3,
+          "erros": 0
+        },
+        "apostila": {
+          "acertos": 1,
+          "erros": 1
+        }
+      }
+    },
+    "8450100073": {
+      "fila": [
+        {
+          "id": "1714156073902643423",
+          "origem": "idecan",
+          "nivel": "dificil",
+          "materia": "PPCE IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 4493\n\nNo ambiente prisional, a atuação deve priorizar:",
+          "alternativas": [
+            "A) legalidade, segurança e dignidade.",
+            "B) improviso.",
+            "C) exposição indevida.",
+            "D) ausência de registro."
+          ],
+          "correta": "A",
+          "explicacao": "A função policial penal exige técnica, legalidade e respeito à dignidade."
+        },
+        {
+          "id": "1776080214865313516",
+          "origem": "idecan",
+          "nivel": "facil",
+          "materia": "Português IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 2566\n\nInterpretação textual exige:",
+          "alternativas": [
+            "A) compreensão de sentidos explícitos e implícitos.",
+            "B) ignorar o comando.",
+            "C) escolher a maior alternativa.",
+            "D) decorar frases."
+          ],
+          "correta": "A",
+          "explicacao": "A banca costuma exigir leitura atenta ao comando."
+        },
+        {
+          "id": "545630704209570691",
+          "origem": "idecan",
+          "nivel": "dificil",
+          "materia": "PPCE IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 4560\n\nA prevenção de incidentes exige:",
+          "alternativas": [
+            "A) protocolo, observação e registro.",
+            "B) omissão.",
+            "C) ausência de comunicação.",
+            "D) desorganização."
+          ],
+          "correta": "A",
+          "explicacao": "Rotina, protocolo e registro são essenciais."
+        },
+        {
+          "id": "7721807390432547734",
+          "origem": "idecan",
+          "nivel": "extremo",
+          "materia": "PPCE IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 4659\n\nNo ambiente prisional, a atuação deve priorizar:",
+          "alternativas": [
+            "A) legalidade, segurança e dignidade.",
+            "B) improviso.",
+            "C) exposição indevida.",
+            "D) ausência de registro."
+          ],
+          "correta": "A",
+          "explicacao": "A função policial penal exige técnica, legalidade e respeito à dignidade."
+        },
+        {
+          "id": "6762228685426898079",
+          "origem": "idecan",
+          "nivel": "extremo",
+          "materia": "Penal/Processo IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 4008\n\nO contraditório assegura:",
+          "alternativas": [
+            "A) ciência e possibilidade de reação.",
+            "B) proibição de defesa.",
+            "C) sigilo contra a defesa.",
+            "D) escolha da pena pela vítima."
+          ],
+          "correta": "A",
+          "explicacao": "Contraditório é ciência e possibilidade de manifestação."
+        },
+        {
+          "id": "6921752416208124929",
+          "origem": "idecan",
+          "nivel": "extremo",
+          "materia": "PPCE IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 4678\n\nA prevenção de incidentes exige:",
+          "alternativas": [
+            "A) protocolo, observação e registro.",
+            "B) omissão.",
+            "C) ausência de comunicação.",
+            "D) desorganização."
+          ],
+          "correta": "A",
+          "explicacao": "Rotina, protocolo e registro são essenciais."
+        },
+        {
+          "id": "6701343866733634300",
+          "origem": "idecan",
+          "nivel": "extremo",
+          "materia": "PPCE IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 4622\n\nA prevenção de incidentes exige:",
+          "alternativas": [
+            "A) protocolo, observação e registro.",
+            "B) omissão.",
+            "C) ausência de comunicação.",
+            "D) desorganização."
+          ],
+          "correta": "A",
+          "explicacao": "Rotina, protocolo e registro são essenciais."
+        },
+        {
+          "id": "6968880731435711472",
+          "origem": "idecan",
+          "nivel": "extremo",
+          "materia": "Penal/Processo IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 4019\n\nDolo eventual ocorre quando o agente:",
+          "alternativas": [
+            "A) assume o risco do resultado.",
+            "B) age sempre sem consciência.",
+            "C) pratica fato atípico.",
+            "D) é inimputável automaticamente."
+          ],
+          "correta": "A",
+          "explicacao": "Dolo eventual envolve assunção do risco."
+        },
+        {
+          "id": "2139891367886543720",
+          "origem": "idecan",
+          "nivel": "extremo",
+          "materia": "Português IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 3000\n\nInterpretação textual exige:",
+          "alternativas": [
+            "A) compreensão de sentidos explícitos e implícitos.",
+            "B) ignorar o comando.",
+            "C) escolher a maior alternativa.",
+            "D) decorar frases."
+          ],
+          "correta": "A",
+          "explicacao": "A banca costuma exigir leitura atenta ao comando."
+        },
+        {
+          "id": "5426191412786390814",
+          "origem": "idecan",
+          "nivel": "dificil",
+          "materia": "PPCE IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 4447\n\nNo ambiente prisional, a atuação deve priorizar:",
+          "alternativas": [
+            "A) legalidade, segurança e dignidade.",
+            "B) improviso.",
+            "C) exposição indevida.",
+            "D) ausência de registro."
+          ],
+          "correta": "A",
+          "explicacao": "A função policial penal exige técnica, legalidade e respeito à dignidade."
+        },
+        {
+          "id": "3387550404930076495",
+          "origem": "idecan",
+          "nivel": "extremo",
+          "materia": "PPCE IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 4694\n\nA prevenção de incidentes exige:",
+          "alternativas": [
+            "A) protocolo, observação e registro.",
+            "B) omissão.",
+            "C) ausência de comunicação.",
+            "D) desorganização."
+          ],
+          "correta": "A",
+          "explicacao": "Rotina, protocolo e registro são essenciais."
+        },
+        {
+          "id": "6087292502392114178",
+          "origem": "idecan",
+          "nivel": "dificil",
+          "materia": "Penal/Processo IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 3848\n\nO contraditório assegura:",
+          "alternativas": [
+            "A) ciência e possibilidade de reação.",
+            "B) proibição de defesa.",
+            "C) sigilo contra a defesa.",
+            "D) escolha da pena pela vítima."
+          ],
+          "correta": "A",
+          "explicacao": "Contraditório é ciência e possibilidade de manifestação."
+        },
+        {
+          "id": "8095540638797556118",
+          "origem": "idecan",
+          "nivel": "extremo",
+          "materia": "Português IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 2884\n\nInterpretação textual exige:",
+          "alternativas": [
+            "A) compreensão de sentidos explícitos e implícitos.",
+            "B) ignorar o comando.",
+            "C) escolher a maior alternativa.",
+            "D) decorar frases."
+          ],
+          "correta": "A",
+          "explicacao": "A banca costuma exigir leitura atenta ao comando."
+        },
+        {
+          "id": "725420799838095209",
+          "origem": "idecan",
+          "nivel": "extremo",
+          "materia": "PPCE IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 4561\n\nNo ambiente prisional, a atuação deve priorizar:",
+          "alternativas": [
+            "A) legalidade, segurança e dignidade.",
+            "B) improviso.",
+            "C) exposição indevida.",
+            "D) ausência de registro."
+          ],
+          "correta": "A",
+          "explicacao": "A função policial penal exige técnica, legalidade e respeito à dignidade."
+        },
+        {
+          "id": "3852911293176731295",
+          "origem": "idecan",
+          "nivel": "medio",
+          "materia": "Direito IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 3221\n\nO princípio da legalidade exige:",
+          "alternativas": [
+            "A) atuação conforme a lei.",
+            "B) atuação sem norma.",
+            "C) preferência pessoal.",
+            "D) segredo absoluto."
+          ],
+          "correta": "A",
+          "explicacao": "Legalidade é princípio básico da Administração e do Estado de Direito."
+        },
+        {
+          "id": "5723047254913948692",
+          "origem": "idecan",
+          "nivel": "extremo",
+          "materia": "PPCE IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 4695\n\nNo ambiente prisional, a atuação deve priorizar:",
+          "alternativas": [
+            "A) legalidade, segurança e dignidade.",
+            "B) improviso.",
+            "C) exposição indevida.",
+            "D) ausência de registro."
+          ],
+          "correta": "A",
+          "explicacao": "A função policial penal exige técnica, legalidade e respeito à dignidade."
+        },
+        {
+          "id": "8771799257571378206",
+          "origem": "idecan",
+          "nivel": "medio",
+          "materia": "PPCE IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 4386\n\nA prevenção de incidentes exige:",
+          "alternativas": [
+            "A) protocolo, observação e registro.",
+            "B) omissão.",
+            "C) ausência de comunicação.",
+            "D) desorganização."
+          ],
+          "correta": "A",
+          "explicacao": "Rotina, protocolo e registro são essenciais."
+        },
+        {
+          "id": "8629019708262783933",
+          "origem": "idecan",
+          "nivel": "extremo",
+          "materia": "PPCE IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 4741\n\nNo ambiente prisional, a atuação deve priorizar:",
+          "alternativas": [
+            "A) legalidade, segurança e dignidade.",
+            "B) improviso.",
+            "C) exposição indevida.",
+            "D) ausência de registro."
+          ],
+          "correta": "A",
+          "explicacao": "A função policial penal exige técnica, legalidade e respeito à dignidade."
+        },
+        {
+          "id": "3816449327877572331",
+          "origem": "idecan",
+          "nivel": "dificil",
+          "materia": "PPCE IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 4484\n\nA prevenção de incidentes exige:",
+          "alternativas": [
+            "A) protocolo, observação e registro.",
+            "B) omissão.",
+            "C) ausência de comunicação.",
+            "D) desorganização."
+          ],
+          "correta": "A",
+          "explicacao": "Rotina, protocolo e registro são essenciais."
+        },
+        {
+          "id": "688457643636677522",
+          "origem": "idecan",
+          "nivel": "dificil",
+          "materia": "PPCE IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 4485\n\nNo ambiente prisional, a atuação deve priorizar:",
+          "alternativas": [
+            "A) legalidade, segurança e dignidade.",
+            "B) improviso.",
+            "C) exposição indevida.",
+            "D) ausência de registro."
+          ],
+          "correta": "A",
+          "explicacao": "A função policial penal exige técnica, legalidade e respeito à dignidade."
+        },
+        {
+          "id": "7931326547063982069",
+          "origem": "idecan",
+          "nivel": "medio",
+          "materia": "Direito IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 3202\n\nA dignidade humana orienta:",
+          "alternativas": [
+            "A) a atuação estatal inclusive no cárcere.",
+            "B) apenas contratos privados.",
+            "C) somente comércio.",
+            "D) apenas relações familiares."
+          ],
+          "correta": "A",
+          "explicacao": "A dignidade humana é fundamento constitucional."
+        },
+        {
+          "id": "5469272119156018774",
+          "origem": "idecan",
+          "nivel": "medio",
+          "materia": "Português IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 2618\n\nInterpretação textual exige:",
+          "alternativas": [
+            "A) compreensão de sentidos explícitos e implícitos.",
+            "B) ignorar o comando.",
+            "C) escolher a maior alternativa.",
+            "D) decorar frases."
+          ],
+          "correta": "A",
+          "explicacao": "A banca costuma exigir leitura atenta ao comando."
+        },
+        {
+          "id": "2482712973607354599",
+          "origem": "idecan",
+          "nivel": "dificil",
+          "materia": "Penal/Processo IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 3857\n\nDolo eventual ocorre quando o agente:",
+          "alternativas": [
+            "A) assume o risco do resultado.",
+            "B) age sempre sem consciência.",
+            "C) pratica fato atípico.",
+            "D) é inimputável automaticamente."
+          ],
+          "correta": "A",
+          "explicacao": "Dolo eventual envolve assunção do risco."
+        },
+        {
+          "id": "8468880494059279711",
+          "origem": "idecan",
+          "nivel": "extremo",
+          "materia": "Penal/Processo IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 4183\n\nDolo eventual ocorre quando o agente:",
+          "alternativas": [
+            "A) assume o risco do resultado.",
+            "B) age sempre sem consciência.",
+            "C) pratica fato atípico.",
+            "D) é inimputável automaticamente."
+          ],
+          "correta": "A",
+          "explicacao": "Dolo eventual envolve assunção do risco."
+        },
+        {
+          "id": "5538797990214085475",
+          "origem": "idecan",
+          "nivel": "facil",
+          "materia": "Português IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 2564\n\nInterpretação textual exige:",
+          "alternativas": [
+            "A) compreensão de sentidos explícitos e implícitos.",
+            "B) ignorar o comando.",
+            "C) escolher a maior alternativa.",
+            "D) decorar frases."
+          ],
+          "correta": "A",
+          "explicacao": "A banca costuma exigir leitura atenta ao comando."
+        },
+        {
+          "id": "281917939772324654",
+          "origem": "idecan",
+          "nivel": "medio",
+          "materia": "Penal/Processo IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 3722\n\nO contraditório assegura:",
+          "alternativas": [
+            "A) ciência e possibilidade de reação.",
+            "B) proibição de defesa.",
+            "C) sigilo contra a defesa.",
+            "D) escolha da pena pela vítima."
+          ],
+          "correta": "A",
+          "explicacao": "Contraditório é ciência e possibilidade de manifestação."
+        },
+        {
+          "id": "1613243469640557895",
+          "origem": "idecan",
+          "nivel": "extremo",
+          "materia": "PPCE IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 4605\n\nNo ambiente prisional, a atuação deve priorizar:",
+          "alternativas": [
+            "A) legalidade, segurança e dignidade.",
+            "B) improviso.",
+            "C) exposição indevida.",
+            "D) ausência de registro."
+          ],
+          "correta": "A",
+          "explicacao": "A função policial penal exige técnica, legalidade e respeito à dignidade."
+        },
+        {
+          "id": "6609950065929243083",
+          "origem": "idecan",
+          "nivel": "dificil",
+          "materia": "Português IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 2802\n\nInterpretação textual exige:",
+          "alternativas": [
+            "A) compreensão de sentidos explícitos e implícitos.",
+            "B) ignorar o comando.",
+            "C) escolher a maior alternativa.",
+            "D) decorar frases."
+          ],
+          "correta": "A",
+          "explicacao": "A banca costuma exigir leitura atenta ao comando."
+        },
+        {
+          "id": "7768573148695912412",
+          "origem": "idecan",
+          "nivel": "medio",
+          "materia": "Penal/Processo IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 3735\n\nDolo eventual ocorre quando o agente:",
+          "alternativas": [
+            "A) assume o risco do resultado.",
+            "B) age sempre sem consciência.",
+            "C) pratica fato atípico.",
+            "D) é inimputável automaticamente."
+          ],
+          "correta": "A",
+          "explicacao": "Dolo eventual envolve assunção do risco."
+        },
+        {
+          "id": "5360700343940699981",
+          "origem": "idecan",
+          "nivel": "medio",
+          "materia": "PPCE IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 4362\n\nA prevenção de incidentes exige:",
+          "alternativas": [
+            "A) protocolo, observação e registro.",
+            "B) omissão.",
+            "C) ausência de comunicação.",
+            "D) desorganização."
+          ],
+          "correta": "A",
+          "explicacao": "Rotina, protocolo e registro são essenciais."
+        },
+        {
+          "id": "6651936125609263779",
+          "origem": "idecan",
+          "nivel": "extremo",
+          "materia": "PPCE IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 4715\n\nNo ambiente prisional, a atuação deve priorizar:",
+          "alternativas": [
+            "A) legalidade, segurança e dignidade.",
+            "B) improviso.",
+            "C) exposição indevida.",
+            "D) ausência de registro."
+          ],
+          "correta": "A",
+          "explicacao": "A função policial penal exige técnica, legalidade e respeito à dignidade."
+        },
+        {
+          "id": "3565442781784031711",
+          "origem": "idecan",
+          "nivel": "dificil",
+          "materia": "Penal/Processo IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 3977\n\nDolo eventual ocorre quando o agente:",
+          "alternativas": [
+            "A) assume o risco do resultado.",
+            "B) age sempre sem consciência.",
+            "C) pratica fato atípico.",
+            "D) é inimputável automaticamente."
+          ],
+          "correta": "A",
+          "explicacao": "Dolo eventual envolve assunção do risco."
+        },
+        {
+          "id": "9019485943139117657",
+          "origem": "idecan",
+          "nivel": "medio",
+          "materia": "PPCE IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 4295\n\nNo ambiente prisional, a atuação deve priorizar:",
+          "alternativas": [
+            "A) legalidade, segurança e dignidade.",
+            "B) improviso.",
+            "C) exposição indevida.",
+            "D) ausência de registro."
+          ],
+          "correta": "A",
+          "explicacao": "A função policial penal exige técnica, legalidade e respeito à dignidade."
+        },
+        {
+          "id": "4668335242807120305",
+          "origem": "idecan",
+          "nivel": "extremo",
+          "materia": "PPCE IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 4652\n\nA prevenção de incidentes exige:",
+          "alternativas": [
+            "A) protocolo, observação e registro.",
+            "B) omissão.",
+            "C) ausência de comunicação.",
+            "D) desorganização."
+          ],
+          "correta": "A",
+          "explicacao": "Rotina, protocolo e registro são essenciais."
+        },
+        {
+          "id": "6645936880635136966",
+          "origem": "idecan",
+          "nivel": "medio",
+          "materia": "Penal/Processo IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 3754\n\nO contraditório assegura:",
+          "alternativas": [
+            "A) ciência e possibilidade de reação.",
+            "B) proibição de defesa.",
+            "C) sigilo contra a defesa.",
+            "D) escolha da pena pela vítima."
+          ],
+          "correta": "A",
+          "explicacao": "Contraditório é ciência e possibilidade de manifestação."
+        },
+        {
+          "id": "7914100341570313996",
+          "origem": "idecan",
+          "nivel": "facil",
+          "materia": "PPCE IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 4234\n\nA prevenção de incidentes exige:",
+          "alternativas": [
+            "A) protocolo, observação e registro.",
+            "B) omissão.",
+            "C) ausência de comunicação.",
+            "D) desorganização."
+          ],
+          "correta": "A",
+          "explicacao": "Rotina, protocolo e registro são essenciais."
+        },
+        {
+          "id": "9025779522213694368",
+          "origem": "idecan",
+          "nivel": "medio",
+          "materia": "Direito IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 3224\n\nA dignidade humana orienta:",
+          "alternativas": [
+            "A) a atuação estatal inclusive no cárcere.",
+            "B) apenas contratos privados.",
+            "C) somente comércio.",
+            "D) apenas relações familiares."
+          ],
+          "correta": "A",
+          "explicacao": "A dignidade humana é fundamento constitucional."
+        },
+        {
+          "id": "5635438496328447565",
+          "origem": "idecan",
+          "nivel": "dificil",
+          "materia": "Penal/Processo IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 3925\n\nDolo eventual ocorre quando o agente:",
+          "alternativas": [
+            "A) assume o risco do resultado.",
+            "B) age sempre sem consciência.",
+            "C) pratica fato atípico.",
+            "D) é inimputável automaticamente."
+          ],
+          "correta": "A",
+          "explicacao": "Dolo eventual envolve assunção do risco."
+        },
+        {
+          "id": "2547601921426959336",
+          "origem": "idecan",
+          "nivel": "dificil",
+          "materia": "Português IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 2760\n\nInterpretação textual exige:",
+          "alternativas": [
+            "A) compreensão de sentidos explícitos e implícitos.",
+            "B) ignorar o comando.",
+            "C) escolher a maior alternativa.",
+            "D) decorar frases."
+          ],
+          "correta": "A",
+          "explicacao": "A banca costuma exigir leitura atenta ao comando."
+        },
+        {
+          "id": "8197480950112626815",
+          "origem": "idecan",
+          "nivel": "extremo",
+          "materia": "Penal/Processo IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 4104\n\nO contraditório assegura:",
+          "alternativas": [
+            "A) ciência e possibilidade de reação.",
+            "B) proibição de defesa.",
+            "C) sigilo contra a defesa.",
+            "D) escolha da pena pela vítima."
+          ],
+          "correta": "A",
+          "explicacao": "Contraditório é ciência e possibilidade de manifestação."
+        },
+        {
+          "id": "4248770597848942390",
+          "origem": "idecan",
+          "nivel": "extremo",
+          "materia": "Penal/Processo IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 4191\n\nDolo eventual ocorre quando o agente:",
+          "alternativas": [
+            "A) assume o risco do resultado.",
+            "B) age sempre sem consciência.",
+            "C) pratica fato atípico.",
+            "D) é inimputável automaticamente."
+          ],
+          "correta": "A",
+          "explicacao": "Dolo eventual envolve assunção do risco."
+        },
+        {
+          "id": "9003666985839659430",
+          "origem": "idecan",
+          "nivel": "extremo",
+          "materia": "Português IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 2941\n\nNo padrão formal, coesão textual contribui para:",
+          "alternativas": [
+            "A) compreensão do texto.",
+            "B) erro gramatical.",
+            "C) ambiguidade obrigatória.",
+            "D) informalidade."
+          ],
+          "correta": "A",
+          "explicacao": "A IDECAN cobra coesão, coerência e interpretação objetiva."
+        },
+        {
+          "id": "2953054665199825604",
+          "origem": "idecan",
+          "nivel": "dificil",
+          "materia": "Português IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 2740\n\nInterpretação textual exige:",
+          "alternativas": [
+            "A) compreensão de sentidos explícitos e implícitos.",
+            "B) ignorar o comando.",
+            "C) escolher a maior alternativa.",
+            "D) decorar frases."
+          ],
+          "correta": "A",
+          "explicacao": "A banca costuma exigir leitura atenta ao comando."
+        },
+        {
+          "id": "2396010596983402010",
+          "origem": "idecan",
+          "nivel": "facil",
+          "materia": "Direito IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 3155\n\nO princípio da legalidade exige:",
+          "alternativas": [
+            "A) atuação conforme a lei.",
+            "B) atuação sem norma.",
+            "C) preferência pessoal.",
+            "D) segredo absoluto."
+          ],
+          "correta": "A",
+          "explicacao": "Legalidade é princípio básico da Administração e do Estado de Direito."
+        },
+        {
+          "id": "3919472185030618733",
+          "origem": "idecan",
+          "nivel": "facil",
+          "materia": "Direito IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 3089\n\nO princípio da legalidade exige:",
+          "alternativas": [
+            "A) atuação conforme a lei.",
+            "B) atuação sem norma.",
+            "C) preferência pessoal.",
+            "D) segredo absoluto."
+          ],
+          "correta": "A",
+          "explicacao": "Legalidade é princípio básico da Administração e do Estado de Direito."
+        },
+        {
+          "id": "2822307723649201134",
+          "origem": "idecan",
+          "nivel": "facil",
+          "materia": "Penal/Processo IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 3711\n\nDolo eventual ocorre quando o agente:",
+          "alternativas": [
+            "A) assume o risco do resultado.",
+            "B) age sempre sem consciência.",
+            "C) pratica fato atípico.",
+            "D) é inimputável automaticamente."
+          ],
+          "correta": "A",
+          "explicacao": "Dolo eventual envolve assunção do risco."
+        },
+        {
+          "id": "6525324023958176061",
+          "origem": "idecan",
+          "nivel": "dificil",
+          "materia": "PPCE IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 4439\n\nNo ambiente prisional, a atuação deve priorizar:",
+          "alternativas": [
+            "A) legalidade, segurança e dignidade.",
+            "B) improviso.",
+            "C) exposição indevida.",
+            "D) ausência de registro."
+          ],
+          "correta": "A",
+          "explicacao": "A função policial penal exige técnica, legalidade e respeito à dignidade."
+        },
+        {
+          "id": "4220212222443780844",
+          "origem": "idecan",
+          "nivel": "extremo",
+          "materia": "Penal/Processo IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 4139\n\nDolo eventual ocorre quando o agente:",
+          "alternativas": [
+            "A) assume o risco do resultado.",
+            "B) age sempre sem consciência.",
+            "C) pratica fato atípico.",
+            "D) é inimputável automaticamente."
+          ],
+          "correta": "A",
+          "explicacao": "Dolo eventual envolve assunção do risco."
+        },
+        {
+          "id": "9073417998070131807",
+          "origem": "idecan",
+          "nivel": "medio",
+          "materia": "Português IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 2638\n\nInterpretação textual exige:",
+          "alternativas": [
+            "A) compreensão de sentidos explícitos e implícitos.",
+            "B) ignorar o comando.",
+            "C) escolher a maior alternativa.",
+            "D) decorar frases."
+          ],
+          "correta": "A",
+          "explicacao": "A banca costuma exigir leitura atenta ao comando."
+        },
+        {
+          "id": "7272912515762333244",
+          "origem": "idecan",
+          "nivel": "dificil",
+          "materia": "Direito IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 3396\n\nA dignidade humana orienta:",
+          "alternativas": [
+            "A) a atuação estatal inclusive no cárcere.",
+            "B) apenas contratos privados.",
+            "C) somente comércio.",
+            "D) apenas relações familiares."
+          ],
+          "correta": "A",
+          "explicacao": "A dignidade humana é fundamento constitucional."
+        },
+        {
+          "id": "7702359416035314426",
+          "origem": "idecan",
+          "nivel": "medio",
+          "materia": "Penal/Processo IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 3732\n\nO contraditório assegura:",
+          "alternativas": [
+            "A) ciência e possibilidade de reação.",
+            "B) proibição de defesa.",
+            "C) sigilo contra a defesa.",
+            "D) escolha da pena pela vítima."
+          ],
+          "correta": "A",
+          "explicacao": "Contraditório é ciência e possibilidade de manifestação."
+        },
+        {
+          "id": "6624872330726511321",
+          "origem": "idecan",
+          "nivel": "dificil",
+          "materia": "Direito IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 3347\n\nO princípio da legalidade exige:",
+          "alternativas": [
+            "A) atuação conforme a lei.",
+            "B) atuação sem norma.",
+            "C) preferência pessoal.",
+            "D) segredo absoluto."
+          ],
+          "correta": "A",
+          "explicacao": "Legalidade é princípio básico da Administração e do Estado de Direito."
+        },
+        {
+          "id": "1687884811014048045",
+          "origem": "idecan",
+          "nivel": "extremo",
+          "materia": "Penal/Processo IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 4103\n\nDolo eventual ocorre quando o agente:",
+          "alternativas": [
+            "A) assume o risco do resultado.",
+            "B) age sempre sem consciência.",
+            "C) pratica fato atípico.",
+            "D) é inimputável automaticamente."
+          ],
+          "correta": "A",
+          "explicacao": "Dolo eventual envolve assunção do risco."
+        },
+        {
+          "id": "4924393156707921722",
+          "origem": "idecan",
+          "nivel": "medio",
+          "materia": "Direito IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 3257\n\nO princípio da legalidade exige:",
+          "alternativas": [
+            "A) atuação conforme a lei.",
+            "B) atuação sem norma.",
+            "C) preferência pessoal.",
+            "D) segredo absoluto."
+          ],
+          "correta": "A",
+          "explicacao": "Legalidade é princípio básico da Administração e do Estado de Direito."
+        },
+        {
+          "id": "6707390073411328831",
+          "origem": "idecan",
+          "nivel": "facil",
+          "materia": "Penal/Processo IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 3694\n\nO contraditório assegura:",
+          "alternativas": [
+            "A) ciência e possibilidade de reação.",
+            "B) proibição de defesa.",
+            "C) sigilo contra a defesa.",
+            "D) escolha da pena pela vítima."
+          ],
+          "correta": "A",
+          "explicacao": "Contraditório é ciência e possibilidade de manifestação."
+        },
+        {
+          "id": "4868423353115478774",
+          "origem": "idecan",
+          "nivel": "dificil",
+          "materia": "Português IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 2866\n\nInterpretação textual exige:",
+          "alternativas": [
+            "A) compreensão de sentidos explícitos e implícitos.",
+            "B) ignorar o comando.",
+            "C) escolher a maior alternativa.",
+            "D) decorar frases."
+          ],
+          "correta": "A",
+          "explicacao": "A banca costuma exigir leitura atenta ao comando."
+        },
+        {
+          "id": "3487536089937611161",
+          "origem": "idecan",
+          "nivel": "dificil",
+          "materia": "PPCE IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 4428\n\nA prevenção de incidentes exige:",
+          "alternativas": [
+            "A) protocolo, observação e registro.",
+            "B) omissão.",
+            "C) ausência de comunicação.",
+            "D) desorganização."
+          ],
+          "correta": "A",
+          "explicacao": "Rotina, protocolo e registro são essenciais."
+        },
+        {
+          "id": "348521000822930579",
+          "origem": "idecan",
+          "nivel": "dificil",
+          "materia": "Direito IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 3348\n\nA dignidade humana orienta:",
+          "alternativas": [
+            "A) a atuação estatal inclusive no cárcere.",
+            "B) apenas contratos privados.",
+            "C) somente comércio.",
+            "D) apenas relações familiares."
+          ],
+          "correta": "A",
+          "explicacao": "A dignidade humana é fundamento constitucional."
+        },
+        {
+          "id": "76730297682195867",
+          "origem": "idecan",
+          "nivel": "dificil",
+          "materia": "Penal/Processo IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 3973\n\nDolo eventual ocorre quando o agente:",
+          "alternativas": [
+            "A) assume o risco do resultado.",
+            "B) age sempre sem consciência.",
+            "C) pratica fato atípico.",
+            "D) é inimputável automaticamente."
+          ],
+          "correta": "A",
+          "explicacao": "Dolo eventual envolve assunção do risco."
+        },
+        {
+          "id": "755728737518765842",
+          "origem": "idecan",
+          "nivel": "facil",
+          "materia": "Penal/Processo IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 3704\n\nO contraditório assegura:",
+          "alternativas": [
+            "A) ciência e possibilidade de reação.",
+            "B) proibição de defesa.",
+            "C) sigilo contra a defesa.",
+            "D) escolha da pena pela vítima."
+          ],
+          "correta": "A",
+          "explicacao": "Contraditório é ciência e possibilidade de manifestação."
+        },
+        {
+          "id": "8110472099637898930",
+          "origem": "idecan",
+          "nivel": "extremo",
+          "materia": "PPCE IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 4731\n\nNo ambiente prisional, a atuação deve priorizar:",
+          "alternativas": [
+            "A) legalidade, segurança e dignidade.",
+            "B) improviso.",
+            "C) exposição indevida.",
+            "D) ausência de registro."
+          ],
+          "correta": "A",
+          "explicacao": "A função policial penal exige técnica, legalidade e respeito à dignidade."
+        },
+        {
+          "id": "7657006404383782549",
+          "origem": "idecan",
+          "nivel": "medio",
+          "materia": "Português IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 2718\n\nInterpretação textual exige:",
+          "alternativas": [
+            "A) compreensão de sentidos explícitos e implícitos.",
+            "B) ignorar o comando.",
+            "C) escolher a maior alternativa.",
+            "D) decorar frases."
+          ],
+          "correta": "A",
+          "explicacao": "A banca costuma exigir leitura atenta ao comando."
+        },
+        {
+          "id": "4493675043738812711",
+          "origem": "idecan",
+          "nivel": "extremo",
+          "materia": "Direito IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 3506\n\nA dignidade humana orienta:",
+          "alternativas": [
+            "A) a atuação estatal inclusive no cárcere.",
+            "B) apenas contratos privados.",
+            "C) somente comércio.",
+            "D) apenas relações familiares."
+          ],
+          "correta": "A",
+          "explicacao": "A dignidade humana é fundamento constitucional."
+        },
+        {
+          "id": "7660452368815741615",
+          "origem": "idecan",
+          "nivel": "extremo",
+          "materia": "Penal/Processo IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 4173\n\nDolo eventual ocorre quando o agente:",
+          "alternativas": [
+            "A) assume o risco do resultado.",
+            "B) age sempre sem consciência.",
+            "C) pratica fato atípico.",
+            "D) é inimputável automaticamente."
+          ],
+          "correta": "A",
+          "explicacao": "Dolo eventual envolve assunção do risco."
+        },
+        {
+          "id": "2870914258916257470",
+          "origem": "idecan",
+          "nivel": "extremo",
+          "materia": "Direito IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 3568\n\nA dignidade humana orienta:",
+          "alternativas": [
+            "A) a atuação estatal inclusive no cárcere.",
+            "B) apenas contratos privados.",
+            "C) somente comércio.",
+            "D) apenas relações familiares."
+          ],
+          "correta": "A",
+          "explicacao": "A dignidade humana é fundamento constitucional."
+        },
+        {
+          "id": "8309575247288783817",
+          "origem": "idecan",
+          "nivel": "extremo",
+          "materia": "Direito IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 3593\n\nO princípio da legalidade exige:",
+          "alternativas": [
+            "A) atuação conforme a lei.",
+            "B) atuação sem norma.",
+            "C) preferência pessoal.",
+            "D) segredo absoluto."
+          ],
+          "correta": "A",
+          "explicacao": "Legalidade é princípio básico da Administração e do Estado de Direito."
+        },
+        {
+          "id": "1764721282757035147",
+          "origem": "idecan",
+          "nivel": "extremo",
+          "materia": "Português IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 2993\n\nNo padrão formal, coesão textual contribui para:",
+          "alternativas": [
+            "A) compreensão do texto.",
+            "B) erro gramatical.",
+            "C) ambiguidade obrigatória.",
+            "D) informalidade."
+          ],
+          "correta": "A",
+          "explicacao": "A IDECAN cobra coesão, coerência e interpretação objetiva."
+        },
+        {
+          "id": "3017463024572744144",
+          "origem": "idecan",
+          "nivel": "dificil",
+          "materia": "Português IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 2795\n\nNo padrão formal, coesão textual contribui para:",
+          "alternativas": [
+            "A) compreensão do texto.",
+            "B) erro gramatical.",
+            "C) ambiguidade obrigatória.",
+            "D) informalidade."
+          ],
+          "correta": "A",
+          "explicacao": "A IDECAN cobra coesão, coerência e interpretação objetiva."
+        },
+        {
+          "id": "7628764327564914314",
+          "origem": "idecan",
+          "nivel": "extremo",
+          "materia": "Penal/Processo IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 4053\n\nDolo eventual ocorre quando o agente:",
+          "alternativas": [
+            "A) assume o risco do resultado.",
+            "B) age sempre sem consciência.",
+            "C) pratica fato atípico.",
+            "D) é inimputável automaticamente."
+          ],
+          "correta": "A",
+          "explicacao": "Dolo eventual envolve assunção do risco."
+        },
+        {
+          "id": "2378803264016475058",
+          "origem": "idecan",
+          "nivel": "medio",
+          "materia": "Penal/Processo IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 3737\n\nDolo eventual ocorre quando o agente:",
+          "alternativas": [
+            "A) assume o risco do resultado.",
+            "B) age sempre sem consciência.",
+            "C) pratica fato atípico.",
+            "D) é inimputável automaticamente."
+          ],
+          "correta": "A",
+          "explicacao": "Dolo eventual envolve assunção do risco."
+        },
+        {
+          "id": "8246215403840105162",
+          "origem": "idecan",
+          "nivel": "dificil",
+          "materia": "PPCE IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 4457\n\nNo ambiente prisional, a atuação deve priorizar:",
+          "alternativas": [
+            "A) legalidade, segurança e dignidade.",
+            "B) improviso.",
+            "C) exposição indevida.",
+            "D) ausência de registro."
+          ],
+          "correta": "A",
+          "explicacao": "A função policial penal exige técnica, legalidade e respeito à dignidade."
+        },
+        {
+          "id": "2588353069514701332",
+          "origem": "idecan",
+          "nivel": "extremo",
+          "materia": "Português IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 2968\n\nInterpretação textual exige:",
+          "alternativas": [
+            "A) compreensão de sentidos explícitos e implícitos.",
+            "B) ignorar o comando.",
+            "C) escolher a maior alternativa.",
+            "D) decorar frases."
+          ],
+          "correta": "A",
+          "explicacao": "A banca costuma exigir leitura atenta ao comando."
+        },
+        {
+          "id": "5678970612863946166",
+          "origem": "idecan",
+          "nivel": "extremo",
+          "materia": "Penal/Processo IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 4192\n\nO contraditório assegura:",
+          "alternativas": [
+            "A) ciência e possibilidade de reação.",
+            "B) proibição de defesa.",
+            "C) sigilo contra a defesa.",
+            "D) escolha da pena pela vítima."
+          ],
+          "correta": "A",
+          "explicacao": "Contraditório é ciência e possibilidade de manifestação."
+        },
+        {
+          "id": "5947203335171651759",
+          "origem": "idecan",
+          "nivel": "dificil",
+          "materia": "Direito IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 3388\n\nA dignidade humana orienta:",
+          "alternativas": [
+            "A) a atuação estatal inclusive no cárcere.",
+            "B) apenas contratos privados.",
+            "C) somente comércio.",
+            "D) apenas relações familiares."
+          ],
+          "correta": "A",
+          "explicacao": "A dignidade humana é fundamento constitucional."
+        },
+        {
+          "id": "1245331800332738197",
+          "origem": "idecan",
+          "nivel": "medio",
+          "materia": "Direito IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 3167\n\nO princípio da legalidade exige:",
+          "alternativas": [
+            "A) atuação conforme a lei.",
+            "B) atuação sem norma.",
+            "C) preferência pessoal.",
+            "D) segredo absoluto."
+          ],
+          "correta": "A",
+          "explicacao": "Legalidade é princípio básico da Administração e do Estado de Direito."
+        },
+        {
+          "id": "6471778323633853991",
+          "origem": "idecan",
+          "nivel": "facil",
+          "materia": "Português IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 2526\n\nInterpretação textual exige:",
+          "alternativas": [
+            "A) compreensão de sentidos explícitos e implícitos.",
+            "B) ignorar o comando.",
+            "C) escolher a maior alternativa.",
+            "D) decorar frases."
+          ],
+          "correta": "A",
+          "explicacao": "A banca costuma exigir leitura atenta ao comando."
+        },
+        {
+          "id": "6440296704149364743",
+          "origem": "idecan",
+          "nivel": "medio",
+          "materia": "PPCE IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 4333\n\nNo ambiente prisional, a atuação deve priorizar:",
+          "alternativas": [
+            "A) legalidade, segurança e dignidade.",
+            "B) improviso.",
+            "C) exposição indevida.",
+            "D) ausência de registro."
+          ],
+          "correta": "A",
+          "explicacao": "A função policial penal exige técnica, legalidade e respeito à dignidade."
+        },
+        {
+          "id": "1972435701990065353",
+          "origem": "idecan",
+          "nivel": "extremo",
+          "materia": "PPCE IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 4658\n\nA prevenção de incidentes exige:",
+          "alternativas": [
+            "A) protocolo, observação e registro.",
+            "B) omissão.",
+            "C) ausência de comunicação.",
+            "D) desorganização."
+          ],
+          "correta": "A",
+          "explicacao": "Rotina, protocolo e registro são essenciais."
+        },
+        {
+          "id": "7053956456169845310",
+          "origem": "idecan",
+          "nivel": "facil",
+          "materia": "Português IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 2538\n\nInterpretação textual exige:",
+          "alternativas": [
+            "A) compreensão de sentidos explícitos e implícitos.",
+            "B) ignorar o comando.",
+            "C) escolher a maior alternativa.",
+            "D) decorar frases."
+          ],
+          "correta": "A",
+          "explicacao": "A banca costuma exigir leitura atenta ao comando."
+        },
+        {
+          "id": "8818297829795652774",
+          "origem": "idecan",
+          "nivel": "extremo",
+          "materia": "Português IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 2995\n\nNo padrão formal, coesão textual contribui para:",
+          "alternativas": [
+            "A) compreensão do texto.",
+            "B) erro gramatical.",
+            "C) ambiguidade obrigatória.",
+            "D) informalidade."
+          ],
+          "correta": "A",
+          "explicacao": "A IDECAN cobra coesão, coerência e interpretação objetiva."
+        },
+        {
+          "id": "1714790601006922595",
+          "origem": "idecan",
+          "nivel": "extremo",
+          "materia": "Penal/Processo IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 4199\n\nDolo eventual ocorre quando o agente:",
+          "alternativas": [
+            "A) assume o risco do resultado.",
+            "B) age sempre sem consciência.",
+            "C) pratica fato atípico.",
+            "D) é inimputável automaticamente."
+          ],
+          "correta": "A",
+          "explicacao": "Dolo eventual envolve assunção do risco."
+        },
+        {
+          "id": "8828904254160156649",
+          "origem": "idecan",
+          "nivel": "medio",
+          "materia": "PPCE IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 4353\n\nNo ambiente prisional, a atuação deve priorizar:",
+          "alternativas": [
+            "A) legalidade, segurança e dignidade.",
+            "B) improviso.",
+            "C) exposição indevida.",
+            "D) ausência de registro."
+          ],
+          "correta": "A",
+          "explicacao": "A função policial penal exige técnica, legalidade e respeito à dignidade."
+        },
+        {
+          "id": "90494108680343682",
+          "origem": "idecan",
+          "nivel": "dificil",
+          "materia": "PPCE IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 4471\n\nNo ambiente prisional, a atuação deve priorizar:",
+          "alternativas": [
+            "A) legalidade, segurança e dignidade.",
+            "B) improviso.",
+            "C) exposição indevida.",
+            "D) ausência de registro."
+          ],
+          "correta": "A",
+          "explicacao": "A função policial penal exige técnica, legalidade e respeito à dignidade."
+        },
+        {
+          "id": "3791055685348580735",
+          "origem": "idecan",
+          "nivel": "extremo",
+          "materia": "Português IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 3050\n\nInterpretação textual exige:",
+          "alternativas": [
+            "A) compreensão de sentidos explícitos e implícitos.",
+            "B) ignorar o comando.",
+            "C) escolher a maior alternativa.",
+            "D) decorar frases."
+          ],
+          "correta": "A",
+          "explicacao": "A banca costuma exigir leitura atenta ao comando."
+        },
+        {
+          "id": "5133674173759485248",
+          "origem": "idecan",
+          "nivel": "medio",
+          "materia": "Penal/Processo IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 3750\n\nO contraditório assegura:",
+          "alternativas": [
+            "A) ciência e possibilidade de reação.",
+            "B) proibição de defesa.",
+            "C) sigilo contra a defesa.",
+            "D) escolha da pena pela vítima."
+          ],
+          "correta": "A",
+          "explicacao": "Contraditório é ciência e possibilidade de manifestação."
+        },
+        {
+          "id": "3971928917285063848",
+          "origem": "idecan",
+          "nivel": "extremo",
+          "materia": "Português IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 3079\n\nNo padrão formal, coesão textual contribui para:",
+          "alternativas": [
+            "A) compreensão do texto.",
+            "B) erro gramatical.",
+            "C) ambiguidade obrigatória.",
+            "D) informalidade."
+          ],
+          "correta": "A",
+          "explicacao": "A IDECAN cobra coesão, coerência e interpretação objetiva."
+        },
+        {
+          "id": "2502280095271517506",
+          "origem": "idecan",
+          "nivel": "medio",
+          "materia": "PPCE IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 4301\n\nNo ambiente prisional, a atuação deve priorizar:",
+          "alternativas": [
+            "A) legalidade, segurança e dignidade.",
+            "B) improviso.",
+            "C) exposição indevida.",
+            "D) ausência de registro."
+          ],
+          "correta": "A",
+          "explicacao": "A função policial penal exige técnica, legalidade e respeito à dignidade."
+        },
+        {
+          "id": "8720811181517837795",
+          "origem": "idecan",
+          "nivel": "medio",
+          "materia": "Português IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 2611\n\nNo padrão formal, coesão textual contribui para:",
+          "alternativas": [
+            "A) compreensão do texto.",
+            "B) erro gramatical.",
+            "C) ambiguidade obrigatória.",
+            "D) informalidade."
+          ],
+          "correta": "A",
+          "explicacao": "A IDECAN cobra coesão, coerência e interpretação objetiva."
+        },
+        {
+          "id": "4394257969088845255",
+          "origem": "idecan",
+          "nivel": "medio",
+          "materia": "Direito IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 3198\n\nA dignidade humana orienta:",
+          "alternativas": [
+            "A) a atuação estatal inclusive no cárcere.",
+            "B) apenas contratos privados.",
+            "C) somente comércio.",
+            "D) apenas relações familiares."
+          ],
+          "correta": "A",
+          "explicacao": "A dignidade humana é fundamento constitucional."
+        },
+        {
+          "id": "1607396851651406771",
+          "origem": "idecan",
+          "nivel": "facil",
+          "materia": "Português IDECAN",
+          "assunto_id": null,
+          "pergunta": "Questão estilo IDECAN nº 2592\n\nInterpretação textual exige:",
+          "alternativas": [
+            "A) compreensão de sentidos explícitos e implícitos.",
+            "B) ignorar o comando.",
+            "C) escolher a maior alternativa.",
+            "D) decorar frases."
+          ],
+          "correta": "A",
+          "explicacao": "A banca costuma exigir leitura atenta ao comando."
+        }
+      ],
+      "posicao": 1,
+      "atual": {
+        "id": "1714156073902643423",
+        "origem": "idecan",
+        "nivel": "dificil",
+        "materia": "PPCE IDECAN",
+        "assunto_id": null,
+        "pergunta": "Questão estilo IDECAN nº 4493\n\nNo ambiente prisional, a atuação deve priorizar:",
+        "alternativas": [
+          "A) legalidade, segurança e dignidade.",
+          "B) improviso.",
+          "C) exposição indevida.",
+          "D) ausência de registro."
+        ],
+        "correta": "A",
+        "explicacao": "A função policial penal exige técnica, legalidade e respeito à dignidade."
+      },
+      "modo": "Simulado IDECAN 90Q",
+      "acertos": 13,
+      "erros": 1,
+      "erradas": [
+        "7343262701283063584"
+      ],
+      "favoritas": [],
+      "por_materia": {
+        "⚖️ Constituição do Estado do Ceará": {
+          "acertos": 3,
+          "erros": 1
+        },
+        "📋 Portarias da SAP/CE": {
+          "acertos": 2,
+          "erros": 0
+        },
+        "🚨 Segurança pública e penitenciária": {
+          "acertos": 2,
+          "erros": 0
+        },
+        "📜 Lei nº 18.710/2024": {
+          "acertos": 1,
+          "erros": 0
+        },
+        "📜 Lei nº 16.120/2016": {
+          "acertos": 1,
+          "erros": 0
+        },
+        "Execução Penal": {
+          "acertos": 1,
+          "erros": 0
+        },
+        "Português": {
+          "acertos": 1,
+          "erros": 0
+        },
+        "Direito Constitucional": {
+          "acertos": 1,
+          "erros": 0
+        },
+        "PPCE IDECAN": {
+          "acertos": 1,
+          "erros": 0
+        }
+      },
+      "por_nivel": {
+        "dificil": {
+          "acertos": 10,
+          "erros": 1
+        },
+        "super": {
+          "acertos": 3,
+          "erros": 0
+        }
+      },
+      "por_origem": {
+        "apostila": {
+          "acertos": 9,
+          "erros": 1
+        },
+        "geral": {
+          "acertos": 3,
+          "erros": 0
+        },
+        "idecan": {
+          "acertos": 1,
+          "erros": 0
+        }
+      }
+    }
+  }
+}

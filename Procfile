@@ -1,0 +1,1 @@
+worker: python teste_penal.py
