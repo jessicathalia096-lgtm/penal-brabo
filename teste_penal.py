@@ -13,8 +13,8 @@ IMPORTANTE:
 Use BOT_TOKEN de um bot de TESTE, diferente do oficial, para não dar conflito.
 """
 
-import json
 import os
+import json
 import random
 
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update
@@ -833,7 +833,7 @@ def main():
         print("⚠️ Coloque o BOT_TOKEN do bot de teste antes de rodar.")
         return
 
-    updater = Updater(, use_context=True)
+    updater = Updater(BOT_TOKEN, use_context=True)
     dp = updater.dispatcher
 
     dp.add_handler(CommandHandler("start", start))
