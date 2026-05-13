@@ -10,7 +10,7 @@ Rodar:
 python teste_penal.py
 
 IMPORTANTE:
-Use TOKEN de um bot de TESTE, diferente do oficial, para não dar conflito.
+Use BOT_TOKEN de um bot de TESTE, diferente do oficial, para não dar conflito.
 """
 
 import json
@@ -829,11 +829,11 @@ def callbacks(update: Update, context: CallbackContext):
 
 
 def main():
-    if TOKEN == "COLE_AQUI_O_TOKEN_DO_BOT_TESTE":
-        print("⚠️ Coloque o TOKEN do bot de teste antes de rodar.")
+    if BOT_TOKEN == "COLE_AQUI_O_BOT_TOKEN_DO_BOT_TESTE":
+        print("⚠️ Coloque o BOT_TOKEN do bot de teste antes de rodar.")
         return
 
-    updater = Updater(TOKEN, use_context=True)
+    updater = Updater(, use_context=True)
     dp = updater.dispatcher
 
     dp.add_handler(CommandHandler("start", start))
