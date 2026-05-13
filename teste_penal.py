@@ -21,7 +21,7 @@ from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update
 from telegram.ext import Updater, CommandHandler, CallbackQueryHandler, CallbackContext
 
 
-TOKEN = "8746200638:AAGcEfr4zqPcEo4cyv54JJJbcFp5eDWx5Gc"
+BOT_TOKEN = os.getenv("BOT_TOKEN")
 ADMIN_IDS = [8450100073, 1130170420]
 
 NOME_BOT = "🚔 TESTE PENAL CE"
